@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": 1020.5,
+                  "y": 477.5,
+                  "zoom": -3.312477671692489
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "472b3e160d2cc6fe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5c5341a5c7356853",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "6d7e99f5b476ee3f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "3bbd75db5d3b7e2d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d8814d3ee2f69b3c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7af92bebbed65fc7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7a0be7ad87c1ab30",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 01.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f7b5e8e7e25757d0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 01.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "56af5da0f616c9e4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 01.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "610a533a578abe50",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Homepage.canvas",
+    "📚 Courses/CSM 497 - Expert Systems/Questions/GPT Answers to Expert JAR QNS.md",
+    "📚 Courses/MAS 261 - Principles Of Management/Lecture_Notes/Lecture 02.md",
+    "📚 Courses/MAS 261 - Principles Of Management/Lecture_Notes/Lecture 01.md",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 04.md",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 03.md",
+    "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 05.md",
+    "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 04.md",
+    "📚 Courses/CSM 481 - Information System I/Personal_Notes/04 - Decision Support in Business.md",
+    "📚 Courses/CSM 481 - Information System I/Personal_Notes/03 - Key Systems Application in Organizations.md",
+    "📚 Courses/CSM 481 - Information System I/Personal_Notes/02 - Overview of Information Systems.md",
+    "📚 Courses/CSM 481 - Information System I/Personal_Notes/01 - System Concepts.md",
+    "📚 Courses/CSM 483 - Operating Systems/Personal_Notes/03 - CPU Scheduling.md",
+    "📚 Courses/CSM 483 - Operating Systems/Questions/Answers.md",
+    "📚 Courses/CSM 483 - Operating Systems/Personal_Notes/02 - Processes.md",
+    "📚 Courses/CSM 483 - Operating Systems/Personal_Notes/01 - Introduction.md",
+    "📚 Courses/CSM 483 - Operating Systems/Assignments/Test - 01.md",
+    "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 01.md",
+    "📚 Courses/CSM 497 - Expert Systems/Questions/expert mcqs.pdf",
+    "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01b - History of Management.md",
+    "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01 - Introduction (Foundations of Management).md",
+    "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/Lecture 3 (1).pptx",
+    "📎 Attachments/Pasted image 20250221141830.png",
+    "📎 Attachments/Pasted image 20250221123030.png",
+    "📎 Attachments/Pasted image 20250221122622.png",
+    "📎 Attachments/Pasted image 20250221093632.png",
+    "📎 Attachments/Pasted image 20250221090740.png",
+    "📎 Attachments/Pasted image 20250221085847.png",
+    "📎 Attachments/Pasted image 20250221085749.png",
+    "📎 Attachments/Pasted image 20250221084052.png",
+    "📎 Attachments/Pasted image 20250221083201.png",
+    "📎 Attachments/Pasted image 20250221082308.png",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Personal_Notes/01 Introduction.md",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 01.md",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 02.md",
+    "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/Lecture 05.md",
+    "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/Lecture 04.md",
+    "📚 Courses/CSM 495 - Introduction To Software Engineering/Personal_Notes/01 - Introduction.md",
+    "Untitled",
+    "📎 Attachments/Recording 20250212155241.m4a",
+    "📚 Courses/CSM 481 - Information System I/Resources/5 -GROUP DECISION SUPPORT SYSTEM.pptx",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/Lecture 2 (1).pptx",
+    "📎 Attachments/Recording 20250130160138.m4a",
+    "📎 Attachments/Recording 20250130153752.m4a",
+    "📎 Attachments/Recording 20250129175355.m4a"
+  ]
+}
