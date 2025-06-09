@@ -11,12 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "📚 Courses/CSM 497 - Expert Systems/Resources/CSM 497 - Expert System (Morris Edition).pdf"
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": 44.73661622198177,
+                  "y": 137.4202096769081,
+                  "zoom": -1.0090899114071405
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "CSM 497 - Expert System (Morris Edition)"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           },
           {
@@ -206,7 +211,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "audio-recorder:Start/stop recording": false,
       "templates:Insert template": false,
       "switcher:Open quick switcher": false,
@@ -214,11 +218,13 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "📎 Attachments/cs4-sem-2-timetable.jpg",
     "📚 Courses/CSM 497 - Expert Systems/Resources/Design Of Expert System.pdf",
     "📚 Courses/CSM 497 - Expert Systems/Questions/GPT Answers to Expert JAR QNS.md",
     "📚 Courses/CSM 497 - Expert Systems/Questions/Expert JARr QNS.docx",
@@ -234,7 +240,6 @@
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/ANS.pdf",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/graphtheoryanditsapplications-180311171041.pdf",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/~$Lecture 6 (1).pptx",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/MCQ-on-Graph-Theory-and-Application.pdf",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/IMG-20250420-WA0017.jpg",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/IMG-20250420-WA0018.jpg",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/IMG-20250420-WA0019.jpg",
