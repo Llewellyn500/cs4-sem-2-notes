@@ -2,7 +2,7 @@
 course: CSM 481 - Information System I
 tags:
   - course
-  - CSM481
+  - CSM478
 ---
 
 # Information System I
