@@ -1,15 +1,13 @@
 ---
-course: CSM 477 - Data Communication
+course: CSM 494 - Computer Security
 tags:
   - course
   - CSM477
 ---
 
-# Data Communication
-
 ## Overview
-- **Course Code:** CSM 477 
-- **Instructor:** M. Asante
-- **Semester:** 1
+- **Course Code:** CSM 494 
+- **Instructor:** 
+- **Semester:** 2
 
 ## Resources

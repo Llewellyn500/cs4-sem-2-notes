@@ -16,6 +16,6 @@ Write short notes on following topics above, half a page for each.
 Date of submission: 15th July
 
 
-Area of concentration for mid sem: Slide 1 - 4
-Mid sem exam format: 10 fill-ins and 20 MCQs.
+**Area of concentration for mid sem: Slide 1 - 4**
+**Mid sem exam format: 10 fill-ins and 20 MCQs.**
 
