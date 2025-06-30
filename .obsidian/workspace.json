@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 510.5,
-                  "zoom": -2.3882246681448773
-                }
+                "file": "📚 Courses/CSM 494 - Computer Security/Assignments/Assignment 01.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Assignment 01"
             }
           }
         ]
@@ -184,10 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99643f21949b5dde",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "📚 Courses/CSM 484 - Introduction to Compilers/Resources/Compilers Note.pdf",
+    "📚 Courses/CSM 494 - Computer Security/Resources/~$ch01.pptx",
+    "📎 Attachments/WhatsApp Image 2025-06-30 at 16.21.06_42595aa1.jpg",
     "Homepage.canvas",
+    "📚 Courses/CSM 494 - Computer Security/Assignments/Assignment 01.md",
+    "📚 Courses/CSM 484 - Introduction to Compilers/Resources/Compilers Note.pdf",
     "📚 Courses/MCS 472 - Principles of Management 2/Lecture_Notes/Lecture 01.md",
     "📚 Courses/MCS 472 - Principles of Management 2/Lecture_Notes/Lecture 02.md",
     "📎 Attachments/20250617_103256.jpg",
@@ -208,13 +208,11 @@
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/slide6answers.pdf",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/ANS.pdf",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/graphtheoryanditsapplications-180311171041.pdf",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/~$Lecture 6 (1).pptx",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/IMG-20250420-WA0017.jpg",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/IMG-20250420-WA0018.jpg",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/IMG-20250420-WA0019.jpg",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/IMG-20250420-WA0016.jpg",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/IMG-20250420-WA0015.jpg",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/IMG-20250420-WA0012.jpg",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/End of sem.md",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01b - History of Management.md",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01 - Introduction (Foundations of Management).md",
@@ -231,7 +229,6 @@
     "📚 Courses/CSM 477 - Data Communication/Lecture_Notes/Lecture 03.md",
     "📚 Courses/CSM 477 - Data Communication/Lecture_Notes/Lecture 01.md",
     "📚 Courses/MAS 261 - Principles Of Management/Lecture_Notes/Lecture 02.md",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 04.md",
-    "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 05.md"
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 04.md"
   ]
 }
