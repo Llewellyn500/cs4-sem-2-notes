@@ -4,6 +4,7 @@ course: CSM 494 - Computer Security
 tags:
   - personal
   - study
+  - CSM494
 ---
 
 ## **Ethics of Hacking and Cracking**
