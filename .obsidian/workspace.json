@@ -8,16 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "21a33c1b91e93ab0",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Homepage.canvas",
                 "viewState": {
-                  "x": 1345.9007287099114,
-                  "y": -8.712593681730317,
-                  "zoom": -0.47516628541631434
+                  "x": 985.2661248169218,
+                  "y": -65.95632066025755,
+                  "zoom": -0.16423513096808331
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -184,12 +184,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ac6024330b6f5a30",
   "lastOpenFiles": [
-    "Homepage.canvas",
+    "📚 Courses/CSM 478 - Computer Networks/Resources/csm 478 lecture2-NEW.pptx",
+    "📚 Courses/CSM 478 - Computer Networks/Resources/csm 478 lecture1.ppt",
     "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 02.md",
-    "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 01.md",
+    "📎 Attachments/Picture1 1.png",
     "📚 Courses/CSM 494 - Computer Security/Resources/~$ch02.ppt",
+    "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 01.md",
+    "Homepage.canvas",
     "README.md",
     "📎 Attachments/Picture2.png",
     "📎 Attachments/Picture1.png",
@@ -214,10 +217,8 @@
     "📚 Courses/CSM 497 - Expert Systems/Questions/Expert JAR QNS.docx",
     "📚 Courses/CSM 497 - Expert Systems/Resources/Chapter1_Introduction.pdf",
     "cs4sem1-timetable.jpg",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/slide6answers.pdf",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/IMG-20250420-WA0017.jpg",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/IMG-20250420-WA0018.jpg",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/IMG-20250420-WA0019.jpg",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/End of sem.md",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01b - History of Management.md",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01 - Introduction (Foundations of Management).md",
