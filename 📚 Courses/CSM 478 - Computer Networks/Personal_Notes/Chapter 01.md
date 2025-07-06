@@ -75,36 +75,52 @@ The security is challenged by
 - **Security** 
 
 
+## **Network Categories**
+
+Networks are usually classified using;
+- Protocol
+- Architecture
+- Topology
+
+### **Protocol**
+
+It's simply an agreed-on set of rules and procedures for transmitting data between two or more devices
+
+#### Features determined by the protocol are:
+- How the sending device indicates it has finished sending the message
+- How the receiving device indicates it has received the message
+- The type of error checking to be used.
+
+- Network Protocols: Ethernet, IBM's Token Ring
+- Communications Protocol: TCP/IP
 
 
+### **Architecture**
+
+Refers to the way a network is designed and built
+- Peer-to-peer architecture
+- Client/Server architecture
 
 
+### **Topology**
 
+Refers to the way computers and peripherals are configured to form a network
+- **Bus topology** - nodes are linked by a single line of cable
+- **Star topology** -nodes are linked to a central computer called a host
+- **Ring topology** - each node is connected to two other nodes, with the entire network forming a circle
+- **Hybrid topology** - combine network layout types to meet their needs
 
+A bus topology connecting three stations
+![[Picture1 3.png]]
 
+A star topology
+![[Picture2 2.png]]
 
+A ring topology
+![[Picture3 1.png]]
 
+A fully connected mesh
+![[Picture4.png]]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## **Key Concepts**
-
--
-
-## **References**
-
--
+A hybrid topology
+![[Picture5.png]]
