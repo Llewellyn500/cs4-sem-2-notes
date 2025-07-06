@@ -1,5 +1,5 @@
 ---
-course: CSM 481 - Information System I
+course: CSM 478 - Computer Networks
 tags:
   - course
   - CSM478
