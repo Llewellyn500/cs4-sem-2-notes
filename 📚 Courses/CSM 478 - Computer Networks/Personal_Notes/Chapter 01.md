@@ -28,6 +28,8 @@ tags:
 
 ![[Picture2 1.png]]
 
+### **Network Performance**
+
 The effectiveness of a data communication system depends on;
 - Delivery
 - Accuracy
@@ -110,17 +112,83 @@ Refers to the way computers and peripherals are configured to form a network
 - **Ring topology** - each node is connected to two other nodes, with the entire network forming a circle
 - **Hybrid topology** - combine network layout types to meet their needs
 
-A bus topology connecting three stations
+#### **Bus topology**
+
 ![[Picture1 3.png]]
 
-A star topology
+- **Physical Structure:** Single coaxial cable with BNC terminators (50Ω) 
+- Half Duplex
+- **Collision Domain:** One shared collision domain for entire network 
+- **Access Control:** CSMA/CD (Carrier Sense Multiple Access/Collision Detection) 
+- **Advantages:** 
+	- Simple to implement 
+	- Cost-effective for small networks 
+	- No central point of failure 
+- **Disadvantages:** 
+	- Security: All nodes see all traffic (promiscuous mode) 
+	- Scalability: Performance degrades with more devices 
+	- Reliability: Cable break affects entire network 
+	- Collision Rate: Increases exponentially with network size
+
+#### **Star topology**
+
 ![[Picture2 2.png]]
+
+- **Central Device Options:** 
+	- **Hub:** Repeater at Physical Layer (L1) - extends collision domain 
+	- **Switch:** Operates at Data Link Layer (L2) - creates separate collision domains 
+- **Switch Advantages:** 
+	- **Microsegmentation:** Each port = separate collision domain 
+	- **Full-duplex:** Simultaneous send/receive capability 
+	- **Buffering:** Store-and-forward eliminates collisions 
+- **Variations:** 
+	- **Extended Star:** Multiple switches connected hierarchically 
+	- **Distributed Star:** Switches connected in mesh pattern
+
 
 A ring topology
 ![[Picture3 1.png]]
 
-A fully connected mesh
+#### **Mesh Topology**
+
 ![[Picture4.png]]
 
-A hybrid topology
+- **Full Mesh**: Every node connects to all others 
+	- **Connections:** n(n-1)/2 links required 
+	- **Redundancy:** Multiple paths between any two nodes 
+	- **Cost:** Expensive due to cabling requirements 
+- **Partial Mesh:** Strategic connections based on traffic patterns 
+- **Applications:** Internet backbone, WAN connections, data centers
+
+#### **Hybrid Topology**
+
 ![[Picture5.png]]
+
+- **Star-Bus:** Ethernet switches connected via backbone bus 
+- **Star-Ring:** Token Ring MAUs connected in star configuration 
+- **Hierarchical:** Three-tier architecture (Core-Distribution-Access)
+
+## **Transmission Modes** 
+
+**Unicast (1:1)** 
+- **Examples:** HTTP, HTTPS, SSH, Telnet 
+- **Addressing:** Specific MAC/IP address 
+- **Bandwidth:** Dedicated per session 
+
+**Multicast (1:Many)** 
+- **IP Range:** 224.0.0.0 to 239.255.255.255 (Class D) 
+- **Examples:** Video streaming, software updates, routing protocols 
+- **Protocols:** IGMP (Internet Group Management Protocol) 
+- **Efficiency:** Single stream serves multiple recipients 
+
+**Broadcast (1:All)** 
+- **Layer 2:** MAC broadcast (FF:FF:FF:FF:FF:FF) 
+- **Layer 3:** IP directed broadcast (subnet broadcast address) 
+- **Examples:** ARP requests, DHCP discovery, NetBIOS name resolution 
+- **Limitation:** Causes network congestion in large networks 
+ 
+## **Collision Domains** 
+- Hub: All ports share one collision domain 
+- Switch: Each port creates separate collision domain 
+- Bridge: Separates collision domains (legacy) 
+- Router: Separates both collision and broadcast domains
