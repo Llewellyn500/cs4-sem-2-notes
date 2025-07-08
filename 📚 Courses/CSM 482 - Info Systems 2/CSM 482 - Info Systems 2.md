@@ -1,8 +1,8 @@
 ---
-course: CSM 491 - Graph Theory And Its Applications
+course: CSM 482 - Info Systems 2
 tags:
   - course
-  - CSM491
+  - CSM482
 ---
 
 # Graph Theory And Its Applications

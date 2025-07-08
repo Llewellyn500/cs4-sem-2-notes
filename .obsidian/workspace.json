@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b895aeee543abe4b",
+            "id": "f1ffef2b012d472d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 01 - INTRODUTION TO ENTREPRENEURSHIP.md",
+                "file": "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/02 - Telecommunications in the Internetworked Enterprise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 01 - INTRODUTION TO ENTREPRENEURSHIP"
-            }
-          },
-          {
-            "id": "835e812d8a8ea02e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 04 - THE IMPORTANCE OF INTELLECTUAL PROPERTY.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 04 - THE IMPORTANCE OF INTELLECTUAL PROPERTY"
+              "title": "02 - Telecommunications in the Internetworked Enterprise"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,11 +182,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "835e812d8a8ea02e",
+  "active": "f1ffef2b012d472d",
   "lastOpenFiles": [
+    "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/01 - THE STRATEGIC ROLE OF INFORMATION SYSTEMS.md",
+    "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/02 - Telecommunications in the Internetworked Enterprise.md",
+    "📚 Courses/CSM 482 - Info Systems 2/Resources/~$2 -Telecom & Internetworked Ent NEW.pptx",
+    "📚 Courses/CSM 482 - Info Systems 2/CSM 482 - Info Systems 2.md",
+    "📚 Courses/CSM 482 - Info Systems 2/Resources/~$1 THE STRATEGIC ROLE OF INFORMATION SYSTEMS.pptx",
+    "Homepage.canvas",
+    "📎 Attachments/WhatsApp Image 2025-07-07 at 09.20.28_c6065daa.jpg",
+    "📎 Attachments/20250617_103256.jpg",
+    "📎 Attachments/cs4-sem-2-timetable.jpg",
+    "📎 Attachments/Picture5.png",
+    "📎 Attachments/WhatsApp Image 2025-06-30 at 16.21.06_42595aa1.jpg",
     "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 01 - INTRODUTION TO ENTREPRENEURSHIP.md",
-    "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 03 - FEASIBILITY ANALYSIS.md",
     "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 04 - THE IMPORTANCE OF INTELLECTUAL PROPERTY.md",
+    "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 03 - FEASIBILITY ANALYSIS.md",
     "📚 Courses/MCS 472 - Principles of Management 2/Resources/~$Lecture 4- Intellectual Property.pptx",
     "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 02 - RECOGNIZING OPPORTUNITIES AND GENERATING IDEAS.md",
     "📚 Courses/MCS 472 - Principles of Management 2/Resources/~$Lecture 3 - Feasibility_Analysis.pptx",
@@ -215,20 +211,12 @@
     "📎 Attachments/Picture1 4.png",
     "📚 Courses/MCS 472 - Principles of Management 2/Lecture_Notes/Lecture 01.md",
     "📚 Courses/MCS 472 - Principles of Management 2/Questions/WhatsApp Image 2025-07-07 at 19.48.23_3cf0a63f.jpg",
-    "📚 Courses/MCS 472 - Principles of Management 2/Questions/WhatsApp Image 2025-07-07 at 19.48.22_f4528f52.jpg",
-    "📚 Courses/MCS 472 - Principles of Management 2/Questions/WhatsApp Image 2025-07-07 at 19.48.22_b81e6bb3.jpg",
-    "Homepage.canvas",
     "📚 Courses/CSM 478 - Computer Networks/Questions/Answer to Question.md",
-    "📚 Courses/CSM 478 - Computer Networks/Questions/20200129_151600.jpg",
     "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Chapter 01.md",
     "📚 Courses/CSM 478 - Computer Networks/Resources/Computer Networks - Comprehensive Exam Notes.pdf",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/WhatsApp Image 2025-07-07 at 09.20.28_c6065daa.jpg",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/WhatsApp Image 2025-07-01 at 23.08.54_bc8e066e.jpg",
     "📚 Courses/CSM 478 - Computer Networks/Resources/~$~$csm 478 lecture1.ppt",
     "📚 Courses/CSM 478 - Computer Networks/Resources/~$csm 478 lecture2-NEW.pptx",
     "📚 Courses/CSM 478 - Computer Networks/CSM 478 - Computer Networks.md",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/~$csm 478 lecture1.ppt",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/csm 478 lecture2-NEW.pptx",
     "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 02.md",
     "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 01.md",
     "README.md",
@@ -242,8 +230,6 @@
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01 - Introduction (Foundations of Management).md",
     "📚 Courses/CSM 483 - Operating Systems/Assignments/Test - 01.md",
     "📚 Courses/CSM 483 - Operating Systems/Personal_Notes/03 - CPU Scheduling.md",
-    "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/03 - Global Management.md",
-    "📚 Courses/CSM 481 - Information System I/Personal_Notes/03 - Key Systems Application in Organizations.md",
-    "📚 Courses/CSM 481 - Information System I/Personal_Notes/01 - System Concepts.md"
+    "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/03 - Global Management.md"
   ]
 }
