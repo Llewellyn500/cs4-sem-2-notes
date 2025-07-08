@@ -101,6 +101,7 @@ Firms must develop IS-enabled strategies to counter these five forces:
     
 - **Risks & Rewards:** High potential payback but also high disruption and failure risk if not managed holistically.
 
+![[Slide35.png]]
 ### Becoming an Agile Company
 
 - **Agility:** The ability to prosper in volatile, fragmented markets with mass-customized, customer-configured offerings.
@@ -123,6 +124,7 @@ Firms must develop IS-enabled strategies to counter these five forces:
     
 - **Strategic Rationale:** Rapidly assemble capabilities for new market opportunities without heavy capital or infrastructure investment.
 
+![[Slide44.png]]
 ### Building a Knowledge-Creating Company
 
 - **Knowledge Types:**

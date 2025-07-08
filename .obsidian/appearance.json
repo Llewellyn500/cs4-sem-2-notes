@@ -1,4 +1,6 @@
 {
   "textFontFamily": "",
-  "accentColor": "#21c700"
+  "accentColor": "#21c700",
+  "theme": "obsidian",
+  "baseFontSizeAction": true
 }
