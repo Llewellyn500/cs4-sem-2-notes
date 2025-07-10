@@ -4,65 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f8e831ee5eb5d9bf",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "9287dd920a27df0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/01 - THE STRATEGIC ROLE OF INFORMATION SYSTEMS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 - THE STRATEGIC ROLE OF INFORMATION SYSTEMS"
-            }
-          },
-          {
-            "id": "c07e512d068651ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/02 - Telecommunications in the Internetworked Enterprise.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 - Telecommunications in the Internetworked Enterprise"
-            }
-          },
-          {
-            "id": "0637a4a58d7e43f6",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "📚 Courses/CSM 484 - Introduction to Compilers/Resources/Compilers Note.pdf"
+                "file": "📚 Courses/CSM 494 - Computer Security/Resources/computer security (Morris edition).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Compilers Note"
-            }
-          },
-          {
-            "id": "8b637f77644c0fc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/05 - Enterprise Business Systems (continued).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05 - Enterprise Business Systems (continued)"
+              "title": "computer security (Morris edition)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "right": {
     "id": "6616b4c46afcaea6",
@@ -184,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Courses/CSM 484 - Introduction to Compilers/Resources/Compilers Note.pdf",
+                "file": "📚 Courses/CSM 484 - Introduction to Compilers/Questions/Compiler Concepts - 60 MCQ Questions with Answers.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Compilers Note"
+              "title": "Outline of Compiler Concepts - 60 MCQ Questions with Answers"
             }
           },
           {
@@ -224,15 +180,19 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "0637a4a58d7e43f6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "📚 Courses/CSM 484 - Introduction to Compilers/Questions/Compilers chapter 2 mcqs.docx",
+    "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 01.md",
+    "📚 Courses/CSM 494 - Computer Security/Resources/computer security (Morris edition).pdf",
+    "Homepage.canvas",
     "📚 Courses/CSM 484 - Introduction to Compilers/Questions/Compiler Concepts - 60 MCQ Questions with Answers.pdf",
+    "📚 Courses/CSM 484 - Introduction to Compilers/Resources/~$introduction to compilers.pptx",
+    "📚 Courses/CSM 484 - Introduction to Compilers/Questions/~$mpiler Design MCQ.docx",
+    "📚 Courses/CSM 484 - Introduction to Compilers/Resources/Compilers Note.pdf",
+    "📚 Courses/CSM 484 - Introduction to Compilers/Questions/Compilers chapter 2 mcqs.docx",
     "📚 Courses/CSM 484 - Introduction to Compilers/Questions/Compiler Design MCQ.docx",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/A Practical Approach to Compiler Construction (Undergraduate -- Des Watson (auth.) -- ( WeLib.org ).pdf",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/~$fornal language.pptx",
-    "📚 Courses/CSM 484 - Introduction to Compilers/Resources/Compilers Note.pdf",
-    "📚 Courses/CSM 484 - Introduction to Compilers/Resources/~$introduction to compilers.pptx",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/04 - Enterprise Business Systems.md",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/03 - Functional Business Systems.md",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/02 - Telecommunications in the Internetworked Enterprise.md",
@@ -240,11 +200,7 @@
     "📚 Courses/CSM 482 - Info Systems 2/Resources/~$2 -Telecom & Internetworked Ent NEW.pptx",
     "📎 Attachments/Slide44.png",
     "📎 Attachments/Slide35.png",
-    "📚 Courses/CSM 482 - Info Systems 2/Resources/~$1 THE STRATEGIC ROLE OF INFORMATION SYSTEMS.pptx",
-    "📚 Courses/CSM 482 - Info Systems 2/Resources/~$1 CSM482 COURSE OUTLINE NEW.pptx",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/05 - Enterprise Business Systems (continued).md",
-    "📚 Courses/CSM 482 - Info Systems 2/Resources/~$3 Functional Business Systems.pptx",
-    "Homepage.canvas",
     "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 01 - INTRODUTION TO ENTREPRENEURSHIP.md",
     "📚 Courses/CSM 482 - Info Systems 2/CSM 482 - Info Systems 2.md",
     "📎 Attachments/WhatsApp Image 2025-07-07 at 09.20.28_c6065daa.jpg",
@@ -264,7 +220,6 @@
     "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Chapter 01.md",
     "📚 Courses/CSM 478 - Computer Networks/CSM 478 - Computer Networks.md",
     "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 02.md",
-    "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 01.md",
     "README.md",
     "📚 Courses/CSM 494 - Computer Security/CSM 494 - Computer Security.md",
     "📚 Courses/CSM 494 - Computer Security/Assignments/Assignment 01.md",
