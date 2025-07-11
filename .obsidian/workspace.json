@@ -13,10 +13,30 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "📚 Courses/CSM 494 - Computer Security/Resources/computer security (Morris edition).pdf"
+                "file": "📚 Courses/CSM 494 - Computer Security/Questions/Security A and B verify answers .pdf"
               },
               "icon": "lucide-file-text",
-              "title": "computer security (Morris edition)"
+              "title": "Security A and B verify answers"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bcb84d9e1ad09619",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74b7bc4f5b30deb7",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/app/9c315d2d93975836",
+                "title": "Google Gemini",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Google Gemini"
             }
           }
         ]
@@ -76,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "right": {
     "id": "6616b4c46afcaea6",
@@ -182,8 +203,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 01.md",
+    "📚 Courses/CSM 494 - Computer Security/Questions/answers.md",
+    "📚 Courses/CSM 494 - Computer Security/Questions/Security A and B verify answers .pdf",
     "📚 Courses/CSM 494 - Computer Security/Resources/computer security (Morris edition).pdf",
+    "📚 Courses/CSM 494 - Computer Security/Resources/~$mputer security.docx",
+    "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 01.md",
     "Homepage.canvas",
     "📚 Courses/CSM 484 - Introduction to Compilers/Questions/Compiler Concepts - 60 MCQ Questions with Answers.pdf",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/~$introduction to compilers.pptx",
@@ -192,12 +216,10 @@
     "📚 Courses/CSM 484 - Introduction to Compilers/Questions/Compilers chapter 2 mcqs.docx",
     "📚 Courses/CSM 484 - Introduction to Compilers/Questions/Compiler Design MCQ.docx",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/A Practical Approach to Compiler Construction (Undergraduate -- Des Watson (auth.) -- ( WeLib.org ).pdf",
-    "📚 Courses/CSM 484 - Introduction to Compilers/Resources/~$fornal language.pptx",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/04 - Enterprise Business Systems.md",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/03 - Functional Business Systems.md",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/02 - Telecommunications in the Internetworked Enterprise.md",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/01 - THE STRATEGIC ROLE OF INFORMATION SYSTEMS.md",
-    "📚 Courses/CSM 482 - Info Systems 2/Resources/~$2 -Telecom & Internetworked Ent NEW.pptx",
     "📎 Attachments/Slide44.png",
     "📎 Attachments/Slide35.png",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/05 - Enterprise Business Systems (continued).md",
@@ -226,7 +248,6 @@
     "📚 Courses/MCS 472 - Principles of Management 2/MCS 472 - Principles of Management 2.md",
     "📚 Courses/CSM 497 - Expert Systems/Questions/GPT Answers to Expert JAR QNS.md",
     "📚 Courses/CSM 497 - Expert Systems/Questions/Questions.md",
-    "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/End of sem.md",
-    "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01b - History of Management.md"
+    "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/End of sem.md"
   ]
 }

@@ -9,7 +9,7 @@ tags:
 
 ## **Ethics of Hacking and Cracking**
 
--  **Computer Cracking** - It's a term used for illegally hacking into a computer system without the permission of the system's owner.
+- **Computer Cracking** - It's a term used for illegally hacking into a computer system without the permission of the system's owner.
 - **Computer Hacker** - A computer expert with malicious intent
 
 ### **Hacker Communities (Categories of hackers)**
