@@ -11,32 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "📚 Courses/CSM 494 - Computer Security/Questions/Security A and B verify answers .pdf"
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": 713.55611412698,
+                  "y": 622.827375431694,
+                  "zoom": -1.3601630105771936
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Security A and B verify answers"
-            }
-          }
-        ]
-      },
-      {
-        "id": "bcb84d9e1ad09619",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "74b7bc4f5b30deb7",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://gemini.google.com/app/9c315d2d93975836",
-                "title": "Google Gemini",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Google Gemini"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -96,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "right": {
     "id": "6616b4c46afcaea6",
@@ -203,12 +187,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "📚 Courses/CSM 494 - Computer Security/Questions/answers.md",
+    "Homepage.canvas",
     "📚 Courses/CSM 494 - Computer Security/Questions/Security A and B verify answers .pdf",
+    "📚 Courses/CSM 494 - Computer Security/Questions/answers.md",
     "📚 Courses/CSM 494 - Computer Security/Resources/computer security (Morris edition).pdf",
     "📚 Courses/CSM 494 - Computer Security/Resources/~$mputer security.docx",
     "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 01.md",
-    "Homepage.canvas",
     "📚 Courses/CSM 484 - Introduction to Compilers/Questions/Compiler Concepts - 60 MCQ Questions with Answers.pdf",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/~$introduction to compilers.pptx",
     "📚 Courses/CSM 484 - Introduction to Compilers/Questions/~$mpiler Design MCQ.docx",
