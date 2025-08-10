@@ -5,7 +5,8 @@
 		{"id":"f7fbf5e90457d3d3","type":"text","text":"# Welcome Back\n\nCheck out your recent lectures below and study hard to make mommy proud.","x":-280,"y":-600,"width":620,"height":120,"color":"6"},
 		{"id":"375a4c29ad75f156","type":"file","file":"📎 Attachments/WhatsApp Image 2025-07-07 at 09.20.28_c6065daa.jpg","x":900,"y":-300,"width":743,"height":660},
 		{"id":"78f51ef685719e3c","type":"text","text":"# **FORMAT FOR THE MIDSEM**\n\n- COMPUTER SECURITY:20 MCQS AND 10 FILL IN\n- COMPUTER NETWORK: WRITTEN(BASED ON HOW NETWORK IS BEEN DESIGN)\n- INFORMATION   SYSTEM: MQCS BUT HE DID NOT TELL US THE NUMBER OF QUESTIONS\n- PRINCIPLES OF MANAGEMENT:MQCS BUT IT WILL BE IN THE FORM OF CASE STUDY\n- COMPILERS: MCQS","x":1800,"y":-80,"width":708,"height":220,"color":"6"},
-		{"id":"8c5a7ce8c1b321fc","type":"file","file":"📎 Attachments/cs4-sem-2-timetable.jpg","x":-840,"y":520,"width":1680,"height":1221}
+		{"id":"8c5a7ce8c1b321fc","type":"file","file":"📎 Attachments/cs4-sem-2-timetable.jpg","x":-840,"y":520,"width":1680,"height":1221},
+		{"id":"781643f3c9b70cca","x":940,"y":520,"width":604,"height":360,"color":"1","type":"text","text":"# **Exam Schedule**\n\n## **Tuesday** -- Computer networks. 8:30am\n\n\n## **Thursday**-- Information Systems. 12:00pm\n\n\n## **Monday** -- Computer Security. 12:00pm\n\n\n## **Thursday** -- Compilers. 12:00pm\n\n\n## **Following Friday** -- Entrepreneurship. 8:30am"}
 	],
 	"edges":[
 		{"id":"c7dca6d919e4823b","fromNode":"f7fbf5e90457d3d3","fromSide":"bottom","toNode":"52e964a0a81d5e0e","toSide":"top"},
