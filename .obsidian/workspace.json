@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "b75e39ac21488521",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "📚 Courses/CSM 478 - Computer Networks/Resources/CSM 478 STUDY GUIDE SEM 2 2024-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CSM 478 STUDY GUIDE SEM 2 2024-2025"
-            }
-          },
-          {
             "id": "cfc0bba1316b108b",
             "type": "leaf",
             "state": {
@@ -106,7 +94,8 @@
               "title": "Computer Networks - Comprehensive Exam Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,18 +259,22 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "📚 Courses/CSM 478 - Computer Networks/Resources/Computer Networks IP Addressing.pdf",
+    "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 2.md",
+    "📎 Attachments/Pasted image 20250818180433.png",
+    "📎 Attachments/Pasted image 20250818174801.png",
+    "📎 Attachments/Pasted image 20250818174720.png",
+    "📎 Attachments/Pasted image 20250818174339.png",
+    "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 1.md",
+    "📚 Courses/CSM 478 - Computer Networks/Resources/CSM 478 STUDY GUIDE SEM 2 2024-2025.pdf",
     "📎 Attachments/Pasted image 20250818173057.png",
     "📚 Courses/CSM 478 - Computer Networks/Resources/csm 478 lecture2-NEW.pdf",
-    "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 2.md",
     "📎 Attachments/Pasted image 20250818171231.png",
     "📚 Courses/CSM 478 - Computer Networks/Resources/MDC GHANA- Housemanship Phase One Posting Letter.PDF",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/CSM 478 STUDY GUIDE SEM 2 2024-2025.pdf",
     "📚 Courses/CSM 478 - Computer Networks/Resources/Variable Length Subnet Masking.pdf",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/Computer Networks IP Addressing.pdf",
     "📚 Courses/CSM 478 - Computer Networks/Resources/Computer Networks - Comprehensive Exam Notes.pdf",
     "📚 Courses/CSM 478 - Computer Networks/Resources/csm 478 lecture1.pdf",
     "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Chapter 01.md",
-    "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 1.md",
     "📚 Courses/CSM 478 - Computer Networks/Questions/networking one yard.pdf",
     "📚 Courses/CSM 478 - Computer Networks/Questions/~$tworking one yard.docx",
     "📚 Courses/CSM 478 - Computer Networks/Questions/networking one yard.docx",
@@ -291,13 +284,8 @@
     "📚 Courses/CSM 478 - Computer Networks/Resources/WhatsApp Image 2025-08-13 at 14.07.25_8e0c3530.jpg",
     "📚 Courses/CSM 478 - Computer Networks/Resources/WhatsApp Image 2025-08-13 at 14.07.25_65856ad5.jpg",
     "📚 Courses/CSM 478 - Computer Networks/Resources/IMG-20250706-WA0022.jpg",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/IMG-20250706-WA0021.jpg",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/IMG-20250706-WA0020.jpg",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/IMG-20250706-WA0019.jpg",
     "📚 Courses/CSM 478 - Computer Networks/CSM 478 - Computer Networks.md",
     "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 01 - INTRODUTION TO ENTREPRENEURSHIP.md",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/IMG-20250805-WA0020.jpg",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/IMG-20250806-WA0014.jpg",
     "📚 Courses/CSM 494 - Computer Security/Questions/answers.md",
     "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 01.md",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/04 - Enterprise Business Systems.md",
