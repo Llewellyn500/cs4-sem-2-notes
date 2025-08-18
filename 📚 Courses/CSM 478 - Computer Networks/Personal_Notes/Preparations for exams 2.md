@@ -6,6 +6,10 @@ tags:
   - study
   - CSM478
 ---
+## **Reference For this Section**
+
+![[csm 478 lecture2-NEW.pdf]]
+
 Nodes are attached to networks through communications media via Network Interface Card (NIC)
 
 ## NETWORKING HARDWARE OR NETWORKING DEVICES
@@ -68,6 +72,19 @@ The term gateway now refers to special-purpose devices, that perform protocol co
 ![[Pasted image 20250818173057.png]]
 
 
+--- 
+---
+---
+---
+---
+---
+
+
+## **Reference For this Section**
+![[Computer Networks IP Addressing.pdf]]
+
+
+
 ## IP Address
 
 - IPv4 [32 bits]
@@ -77,7 +94,7 @@ The term gateway now refers to special-purpose devices, that perform protocol co
 
 In short, the diagram shows that the 8-bit binary number `11111111` is equal to the decimal number `255`.
 
-## Why This is Important for IPv4 💻
+## **Why This is Important for IPv4** 💻
 
 An **IPv4 address** is a 32-bit number, but to make it easier for humans to read, it's broken into four 8-bit octets, which are then written in decimal format and separated by dots (e.g., `192.168.1.10`).
 
@@ -241,11 +258,11 @@ Class C is designed for smaller networks.
 
 ---
 
-## Class D (Multicast) and Class E (Experimental)
+## **Class D (Multicast) and Class E (Experimental)**
 
 These classes are not used for assigning IP addresses to regular hosts.
 
-### Class D (224-239)
+### **Class D (224-239)**
 
 - **Purpose**: Used for **multicast transmissions**. This is a way to send a single data packet to a group of interested destinations simultaneously, like in video conferencing or online gaming.
     
@@ -256,7 +273,7 @@ These classes are not used for assigning IP addresses to regular hosts.
 - **Note**: Class D addresses don't have the traditional network/host structure.
     
 
-### Class E (240-255)
+### **Class E (240-255)**
 
 - **Purpose**: Reserved for **network research and experimentation**.
     
@@ -269,8 +286,94 @@ These classes are not used for assigning IP addresses to regular hosts.
 
 
 
+## **Introduction to Network Masks** 🎭
 
+The second image introduces a crucial concept for how computers understand IP addresses.
 
+- **Network Analysis**: A computer uses two things to determine which network an IP address belongs to:
+    
+    1. A **Mask** (specifically a Subnet Mask)
+        
+    2. A logical **AND gate** operation
+        
+- **Default Mask**: Each address class has a "default mask" that reflects its standard network/host division. This mask helps a computer identify the network portion of an IP address. The notes call this a "boundary level MASK."
+    
+    - **Class A**: `255.0.0.0`
+        
+    - **Class B**: `255.255.0.0`
+        
+    - **Class C**: `255.255.255.0`
+        
+
+The primary purpose of this mask, as the notes state, is to know if a network is using its default boundary or if it has been broken down into smaller pieces (**subnetted**).
+
+These notes tie everything together by explaining **default subnet masks** and introducing **CIDR notation**, which is used to describe subnetting and supernetting.
+
+The main takeaway from the notes is: **Every IP address requires a mask** to define which part of the address is the network and which part is the host.
+
+---
+
+## **Default Masks (Classful Addressing)**
+
+Each of the main address classes (A, B, and C) has a default mask that reflects its standard network/host division. The notes show this in three different formats.
+
+|Class|Bitwise Notation (Binary)|Dotted-Decimal|Default CIDR|
+|---|---|---|---|
+|**A**|`11111111.00000000.00000000.00000000`|`255.0.0.0`|`/8`|
+|**B**|`11111111.11111111.00000000.00000000`|`255.255.0.0`|`/16`|
+|**C**|`11111111.11111111.11111111.00000000`|`255.255.255.0`|`/24`|
+
+- **Bitwise Notation**: Shows the mask in binary. The `1`s represent the **network** portion and the `0`s represent the **host** portion.
+    
+- **Dotted-Decimal**: The common way we write the mask.
+    
+- **CIDR Notation**: A shorthand that simply counts the number of `1`s in the mask. For example, a Class C mask has 24 ones, so its CIDR is `/24`.
+    
+
+---
+
+## Subnetting and Supernetting ↔️
+
+CIDR notation makes it easy to see if a network is using its default size, has been broken down (**subnetted**), or has been combined with others (**supernetted**).
+
+The rule is simple:
+
+- **Subnetting**: The CIDR number is **larger** than the default.
+    
+- **Supernetting**: The CIDR number is **smaller** than the default.
+    
+
+### Subnetting (Creating Smaller Networks)
+
+As one note says, "We subnet networks to convert hosts to create networks." This means we "borrow" bits from the host portion to create more network IDs, resulting in more, smaller networks.
+
+- **Example**: A Class A network is `/8` by default. If you see an address like `10.20.30.40/16`, the `/16` tells you it's a **subnet** of the larger Class A network.
+    
+
+### Supernetting (Creating Larger Networks)
+
+This is the opposite of subnetting. It combines multiple smaller networks into a single, larger one by making the mask shorter (fewer `1`s).
+
+- **Example**: The notes show `129.22.4.13/8`.
+    
+    - The IP `129.22.4.13` is in the Class B range (128-191), which has a default mask of `/16`.
+        
+    - However, the mask used is `/8`, which is shorter. This indicates that multiple Class B networks have been grouped together to form one large **supernet**.
+        
+
+---
+
+## Summary of IP Address Classes
+
+This diagram from your notes provides a great summary of the first-octet ranges and the default CIDR mask for each class.
+
+|Class|First Octet Range|Default CIDR Mask|
+|---|---|---|
+|**A**|1 - 126|`/8`|
+|**B**|128 - 191|`/16`|
+|**C**|192 - 223|`/24`|
+|**D**|224 - 239|`/30` (as noted, though not a standard mask)|
+|**E**|240 - 255|N/A|
 
 
 
