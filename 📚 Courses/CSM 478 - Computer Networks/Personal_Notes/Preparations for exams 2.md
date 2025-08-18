@@ -377,4 +377,160 @@ This diagram from your notes provides a great summary of the first-octet ranges 
 
 
 
+## 1. Basic IP Address Analysis (Classful)
 
+The notes show a quick method for breaking down an IP address based on its class (A, B, or C) without any subnetting.
+
+#### Example 1: `187.132.65.7` (Class B)
+
+Because the first number `187` is between 128 and 191, it's a **Class B** address. This means the first two numbers are the network part and the last two are the host part.
+
+- **Network Address**: `187.132.0.0` (The host part is set to all zeros).
+    
+- **Network ID**: `187.132`
+    
+- **Host ID**: `65.7`
+    
+- **Broadcast Address**: `187.132.255.255` (The host part is set to all ones).
+    
+- **Last Valid Host**: `187.132.255.254` (The address right before the broadcast).
+    
+
+#### Example 2: `121.69.72.14` (Class A)
+
+Because `121` is between 1 and 126, it's a **Class A** address. The first number is the network part and the last three are the host part.
+
+- **Network Address**: `121.0.0.0`
+    
+- **Network ID**: `121`
+    
+- **Host ID**: `69.72.14`
+    
+- **Broadcast Address**: `121.255.255.255`
+    
+- **Last Valid Host**: `121.255.255.254`
+    
+
+---
+
+## 2. Network Diagram Analysis
+
+The notes analyze a network diagram to identify its key components.
+
+- **Broadcast Domains**: These are created by routers. A broadcast sent in one domain will not cross the router into another. The diagram has **3 broadcast domains** because the routers separate the network into three segments with hosts.
+    
+- **Collision Domains**: These are created by switches. Each port on a switch is a separate collision domain, meaning devices can send data at the same time without causing a "collision." The diagram has **9 collision domains**.
+    
+- **Subnets**: Every router interface connects to a unique subnet. By counting the connections between routers and from routers to switches, the notes correctly identify **6 subnets**.
+    
+- **Topology**: The diagram shows a **hybrid topology** (a mix of different types, like star and bus) and uses a **client-server architecture**.
+
+![[Pasted image 20250818201329.png]]
+
+---
+
+## 3. Private vs. Public IP Addressing
+
+- **Private IP Addresses**: These are reserved for use inside an internal network (like your home or office Wi-Fi). They are **not routable** on the public internet. The reserved ranges are:
+    
+    - Class A: `10.0.0.0` – `10.255.255.255`
+        
+    - Class B: `172.16.0.0` – `172.31.255.255`
+        
+    - Class C: `192.168.0.0` – `192.168.255.255`
+        
+- **Public IP Addresses**: These are provided by an Internet Service Provider (ISP) and are unique across the entire internet.
+    
+- **NAT (Network Address Translation)**: As the notes mention, NAT is the protocol used by routers to map multiple private IP addresses to a single public IP address, allowing devices on the private network to access the internet.
+    
+
+---
+
+## 4. Subnetting with VLSM
+
+The notes describe a scenario where a network administrator is given a Class C block (`192.168.16.0/24`) and must divide it to fit the 6 subnets in the diagram.
+
+- **The Challenge**: Different subnets have different numbers of hosts (one needs 80 hosts, others need fewer).
+    
+- **The Solution**: **VLSM (Variable Length Subnet Mask)**. This is an efficient subnetting technique that allows you to use different mask lengths for different subnets. You can create a larger subnet for the 80 hosts and much smaller subnets for the router-to-router links (which only need 2 hosts). As the notes say, this is an "intelligent" method that conserves IP addresses.
+    
+
+---
+
+## 5. Domain Name System (DNS)
+
+Finally, the notes explain the hierarchy of a domain name using `orbit-computer.solutions.com` as an example.
+
+- **`.com`**: **Top-Level Domain (TLD)**. Managed by root servers.
+    
+- **`solutions`**: **Second-Level Domain**. This is the domain you typically purchase.
+    
+- **`orbit-computer`**: **Third-Level Domain (or subdomain)**. This often points to a specific server or service (the "actual machine").
+
+
+## **FLSM (Fixed Length Subnet Mask)**.
+
+The overall goal is to take one large network (`192.168.16.0/24`) and break it into eight smaller, equal-sized networks to be used in the provided network diagram.
+
+---
+
+## 1. The Starting Point
+
+- **Given Network**: The notes start with the public IP address `192.168.16.5/24`.
+    
+- **Analysis**: This is a Class C network. The `/24` CIDR notation means it's a standard, unsubnetted network with 24 bits for the network part and 8 bits for the host part, providing 254 usable host addresses.
+    
+- **The Goal**: The network diagram requires at least 6 separate subnets. The task is to divide the `192.168.16.0/24` network to meet this requirement.
+    
+
+---
+
+## 2. The Subnetting Process (FLSM)
+
+**FLSM** means every new subnet will have the exact same size and subnet mask. The process involves "borrowing" bits from the host portion to use for creating new network IDs.
+
+1. **Determine Bits to Borrow**: The notes calculate how many bits to borrow to get at least 6 subnets.
+    
+    - Borrowing 2 bits: 22=4 subnets. (Not enough)
+        
+    - Borrowing **3 bits**: 23=8 subnets. (This is enough)
+        
+2. **Calculate the New Subnet Mask**:
+    
+    - The original mask was `/24`.
+        
+    - By borrowing 3 bits, the new mask length becomes 24+3=27.
+        
+    - The new CIDR notation for all subnets is **`/27`**.
+        
+    - In binary, the new mask is `11111111.11111111.11111111.11100000`.
+        
+3. **Calculate the "Block Size"**: The block size is the increment between each new subnet address. With 3 bits borrowed, there are 5 host bits remaining (8−3=5).
+    
+    - The block size is calculated as 25=32.
+        
+    - This means the new subnets will start at `.0`, `.32`, `.64`, `.96`, and so on.
+        
+
+---
+
+## 3. The Resulting Subnets
+
+The notes then list the 8 new subnets created from this process. Each `/27` subnet has 32 total addresses, which provides 32−2=30 **valid hosts**.
+
+|Subnet #|Subnet Address|Host Range|Broadcast Address|
+|---|---|---|---|
+|**1**|`192.168.16.0/27`|`192.168.16.1` - `30`|`192.168.16.31`|
+|**2**|`192.168.16.32/27`|`192.168.16.33` - `62`|`192.168.16.63`|
+|**3**|`192.168.16.64/27`|`192.168.16.65` - `94`|`192.168.16.95`|
+|**4**|`192.168.16.96/27`|`192.168.16.97` - `126`|`192.168.16.127`|
+|**5**|`192.168.16.128/27`|`192.168.16.129`- `158`|`192.168.16.159`|
+|**6**|`192.168.16.160/27`|`192.168.16.161`- `190`|`192.168.16.191`|
+|**7**|`192.168.16.192/27`|`192.168.16.193`- `222`|`192.168.16.223`|
+|**8**|`192.168.16.224/27`|`192.168.16.225`- `254`|`192.168.16.255`|
+
+---
+
+## 4. Applying the Subnets to the Diagram
+
+Finally, the note "NOW WE PROCEED TO DESIGN THE NETWORK" indicates that these newly created subnets are now ready to be assigned to the different segments in the network diagram. The first image shows this has been done, with subnets like `.32/27`, `.64/27`, and `.96/27` labeling the different connections and LANs.
