@@ -491,9 +491,9 @@ The overall goal is to take one large network (`192.168.16.0/24`) and break it i
 
 1. **Determine Bits to Borrow**: The notes calculate how many bits to borrow to get at least 6 subnets.
     
-    - Borrowing 2 bits: 22=4 subnets. (Not enough)
+    - Borrowing 2 bits: $2^2$=4 subnets. (Not enough)
         
-    - Borrowing **3 bits**: 23=8 subnets. (This is enough)
+    - Borrowing **3 bits**: $2^3$=8 subnets. (This is enough)
         
 2. **Calculate the New Subnet Mask**:
     
@@ -507,7 +507,7 @@ The overall goal is to take one large network (`192.168.16.0/24`) and break it i
         
 3. **Calculate the "Block Size"**: The block size is the increment between each new subnet address. With 3 bits borrowed, there are 5 host bits remaining (8−3=5).
     
-    - The block size is calculated as 25=32.
+    - The block size is calculated as $2^5$=32.
         
     - This means the new subnets will start at `.0`, `.32`, `.64`, `.96`, and so on.
         
@@ -534,3 +534,82 @@ The notes then list the 8 new subnets created from this process. Each `/27` subn
 ## 4. Applying the Subnets to the Diagram
 
 Finally, the note "NOW WE PROCEED TO DESIGN THE NETWORK" indicates that these newly created subnets are now ready to be assigned to the different segments in the network diagram. The first image shows this has been done, with subnets like `.32/27`, `.64/27`, and `.96/27` labeling the different connections and LANs.
+
+![[Pasted image 20250818211351.png]]
+
+
+## **VLSM (Variable Length Subnet Mask)**
+
+The core idea is to stop wasting IP addresses by creating subnets that are perfectly sized for their specific needs.
+
+---
+
+## 1. The Problem with FLSM
+
+The notes start by identifying the major inefficiency of the previous FLSM design.
+
+- In the FLSM example, every subnet was `/27`, providing 30 usable host IP addresses.
+    
+- However, the network diagram shows several "point-to-point" links between routers. These connections only ever need **two** host IP addresses (one for each router interface).
+    
+- **The Waste**: Assigning a subnet with 30 addresses to a link that only needs 2 wastes 28 IP addresses. When this is repeated across the network, hundreds of IPs can be wasted.
+    
+
+---
+
+## 2. The VLSM Procedure: A New Focus
+
+VLSM solves this problem by changing the focus of the subnetting process.
+
+- **FLSM focuses on**: The total **number of subnets** you need.
+    
+- **VLSM focuses on**: The **number of hosts** required for each _individual_ subnet.
+
+The procedure is to start with the largest host requirement and create a custom-sized subnet for it. Then you move to the next largest requirement and create another custom-sized subnet from the remaining address space.
+
+---
+
+## 3. Two Solutions for Implementing VLSM
+
+The notes cleverly propose two ways to achieve this efficient design.
+
+### Solution 1: Subnetting an Existing Subnet
+
+This is a hybrid approach.
+
+1. **Start** with one of the `/27` subnets created during the FLSM exercise (e.g., `192.168.16.32/27`).
+    
+2. **Subnet it again**: Break this smaller block down even further. To get 2 valid hosts, you need a `/30` mask (which provides 22−2=2 hosts).
+    
+3. **Result**: The `192.168.16.32/27` block is carved into smaller `/30` subnets like `192.168.16.32/30`, `192.168.16.36/30`, etc. These small subnets are then perfect for the router-to-router links.
+    
+
+### Solution 2: A Full VLSM Design (Recommended)
+
+This is the more direct and efficient method.
+
+1. **Start** with the original large network: `192.168.16.0/24`.
+    
+2. **Identify Requirements**: Look at the entire network diagram and find the largest host requirement. In this case, every single subnet (both the LANs and the router links) only needs a maximum of 2 hosts.
+    
+3. **Calculate the Mask**: To satisfy a requirement of 2 hosts, you need a `/30` mask. The block size for a `/30` mask is 4.
+    
+4. **Result**: The entire `192.168.16.0/24` network is divided into many small `/30` subnets. The notes create a table showing the first several of these.
+    
+
+|Subnet #|Subnet Address|Host Range|Broadcast Address|
+|---|---|---|---|
+|**1**|`192.168.16.0/30`|`192.168.16.1` - `2`|`192.168.16.3`|
+|**2**|`192.168.16.4/30`|`192.168.16.5` - `6`|`192.168.16.7`|
+|**3**|`192.168.16.8/30`|`192.168.16.9` - `10`|`192.168.16.11`|
+|...|...|...|...|
+
+---
+
+## 4. The Final, Efficient Network
+
+The final network diagram shows the result of the VLSM process. Each link and each local network is assigned a tiny, perfectly-sized `/30` subnet.
+
+As the note at the bottom says: **"This Network ensures maximum and efficient utilization of IP Addresses such that no IP Address is wasted."**
+
+![[Pasted image 20250818210937.png]]
