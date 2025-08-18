@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Chapter 01.md",
+                "file": "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 01"
+              "title": "Preparations for exams 2"
+            }
+          },
+          {
+            "id": "b75e39ac21488521",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "📚 Courses/CSM 478 - Computer Networks/Resources/CSM 478 STUDY GUIDE SEM 2 2024-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CSM 478 STUDY GUIDE SEM 2 2024-2025"
             }
           },
           {
@@ -27,16 +39,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams.md",
+                "file": "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preparations for exams"
+              "title": "Preparations for exams 1"
+            }
+          },
+          {
+            "id": "d9cd28551a61d1a5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": 1316.3280094516228,
+                  "y": 721.963809456897,
+                  "zoom": -0.7525297040862549
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "ae12c76edec6b4b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3e23f3e48019b9e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "📚 Courses/CSM 478 - Computer Networks/Resources/csm 478 lecture2-NEW.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "csm 478 lecture2-NEW"
+            }
+          },
+          {
+            "id": "f904ec928cb665d3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "📚 Courses/CSM 478 - Computer Networks/Resources/Computer Networks IP Addressing.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Computer Networks IP Addressing"
+            }
+          },
+          {
+            "id": "d81fcc23d9ecb25c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "📚 Courses/CSM 478 - Computer Networks/Resources/Computer Networks - Comprehensive Exam Notes.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Computer Networks - Comprehensive Exam Notes"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
+    "width": 273.5,
     "collapsed": true
   },
   "right": {
@@ -198,33 +268,36 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "cfc0bba1316b108b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Chapter 01.md",
-    "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams.md",
-    "Homepage.canvas",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/Computer Networks - Comprehensive Exam Notes.pdf",
+    "📎 Attachments/Pasted image 20250818173057.png",
+    "📚 Courses/CSM 478 - Computer Networks/Resources/csm 478 lecture2-NEW.pdf",
+    "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 2.md",
+    "📎 Attachments/Pasted image 20250818171231.png",
     "📚 Courses/CSM 478 - Computer Networks/Resources/MDC GHANA- Housemanship Phase One Posting Letter.PDF",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/CSM 478 OUTLINE 2024-2025 - FINAL.pdf",
     "📚 Courses/CSM 478 - Computer Networks/Resources/CSM 478 STUDY GUIDE SEM 2 2024-2025.pdf",
+    "📚 Courses/CSM 478 - Computer Networks/Resources/Variable Length Subnet Masking.pdf",
     "📚 Courses/CSM 478 - Computer Networks/Resources/Computer Networks IP Addressing.pdf",
+    "📚 Courses/CSM 478 - Computer Networks/Resources/Computer Networks - Comprehensive Exam Notes.pdf",
+    "📚 Courses/CSM 478 - Computer Networks/Resources/csm 478 lecture1.pdf",
+    "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Chapter 01.md",
+    "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 1.md",
+    "📚 Courses/CSM 478 - Computer Networks/Questions/networking one yard.pdf",
+    "📚 Courses/CSM 478 - Computer Networks/Questions/~$tworking one yard.docx",
+    "📚 Courses/CSM 478 - Computer Networks/Questions/networking one yard.docx",
+    "📚 Courses/CSM 478 - Computer Networks/Questions/Answer to Question.md",
+    "📚 Courses/CSM 478 - Computer Networks/Questions/20200129_151600.jpg",
+    "Homepage.canvas",
     "📚 Courses/CSM 478 - Computer Networks/Resources/WhatsApp Image 2025-08-13 at 14.07.25_8e0c3530.jpg",
     "📚 Courses/CSM 478 - Computer Networks/Resources/WhatsApp Image 2025-08-13 at 14.07.25_65856ad5.jpg",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/Variable Length Subnet Masking.pdf",
     "📚 Courses/CSM 478 - Computer Networks/Resources/IMG-20250706-WA0022.jpg",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/~$riable Length Subnet Masking.docx",
     "📚 Courses/CSM 478 - Computer Networks/Resources/IMG-20250706-WA0021.jpg",
     "📚 Courses/CSM 478 - Computer Networks/Resources/IMG-20250706-WA0020.jpg",
     "📚 Courses/CSM 478 - Computer Networks/Resources/IMG-20250706-WA0019.jpg",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/csm 478 lecture2-NEW.pdf",
-    "📚 Courses/CSM 478 - Computer Networks/Questions/VLSM_Network_Design_Question.pdf",
-    "📚 Courses/CSM 478 - Computer Networks/Questions/~$SM_Network_Design_Question.docx",
     "📚 Courses/CSM 478 - Computer Networks/CSM 478 - Computer Networks.md",
     "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 01 - INTRODUTION TO ENTREPRENEURSHIP.md",
     "📚 Courses/CSM 478 - Computer Networks/Resources/IMG-20250805-WA0020.jpg",
     "📚 Courses/CSM 478 - Computer Networks/Resources/IMG-20250806-WA0014.jpg",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/IMG-20250806-WA0015.jpg",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/IMG-20250806-WA0012.jpg",
     "📚 Courses/CSM 494 - Computer Security/Questions/answers.md",
     "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 01.md",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/04 - Enterprise Business Systems.md",
@@ -238,14 +311,11 @@
     "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 02 - RECOGNIZING OPPORTUNITIES AND GENERATING IDEAS.md",
     "📚 Courses/MCS 472 - Principles of Management 2/Lecture_Notes/Lecture 02.md",
     "📚 Courses/MCS 472 - Principles of Management 2/Lecture_Notes/Lecture 01.md",
-    "📚 Courses/CSM 478 - Computer Networks/Questions/Answer to Question.md",
     "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 02.md",
     "README.md",
     "📚 Courses/CSM 494 - Computer Security/CSM 494 - Computer Security.md",
     "📚 Courses/CSM 494 - Computer Security/Assignments/Assignment 01.md",
     "📚 Courses/MCS 472 - Principles of Management 2/MCS 472 - Principles of Management 2.md",
-    "📚 Courses/CSM 497 - Expert Systems/Questions/GPT Answers to Expert JAR QNS.md",
-    "📚 Courses/CSM 497 - Expert Systems/Questions/Questions.md",
-    "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/End of sem.md"
+    "📚 Courses/CSM 497 - Expert Systems/Questions/GPT Answers to Expert JAR QNS.md"
   ]
 }
