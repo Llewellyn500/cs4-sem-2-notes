@@ -12,13 +12,13 @@ Here are the solutions and explanations for the networking exam questions, based
 
 ### a. What class is the IP address?
 
-**Answer:** **Class C**1.
+**Answer:** **Class C**
 
 **Explanation:** The class of an IP address is determined by the value of its first octet. The range for Class C addresses is 192 to 223. Since the first octet of this IP address is **195**, it falls within the Class C range.
 
 ### b. What subnet is the address on?
 
-**Answer:** The address is on the **`195.143.208.128`** subnet2.
+**Answer:** The address is on the **`195.143.208.128`** subnet
 
 **Explanation:** To find the subnet address, you perform a bitwise AND operation between the IP address and the subnet mask.
 
@@ -33,13 +33,13 @@ Here are the solutions and explanations for the networking exam questions, based
 
 ### c. What is the NetID of the address?
 
-**Answer:** `195.143.208`3.
+**Answer:** `195.143.208`
 
 **Explanation:** For a Class C address, the default **Network ID (NetID)** consists of the first three octets.
 
 ### d. What is the HostID of the address?
 
-**Answer:** `133`4.
+**Answer:** `133`
 
 **Explanation:** For a default Class C address, the **Host ID (HostID)** is the fourth octet.
 

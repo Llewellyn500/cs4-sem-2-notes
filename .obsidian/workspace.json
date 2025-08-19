@@ -8,51 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Preparations for exams 2"
-            }
-          },
-          {
             "id": "cfc0bba1316b108b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 1.md",
-                "mode": "source",
-                "source": false
+                "file": "📚 Courses/CSM 478 - Computer Networks/Questions/END OF SEM 2 EXAMS NETWORKING 2020.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Preparations for exams 1"
+              "icon": "lucide-file-text",
+              "title": "END OF SEM 2 EXAMS NETWORKING 2020"
             }
           },
           {
             "id": "d9cd28551a61d1a5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": 1316.3280094516228,
-                  "y": 721.963809456897,
-                  "zoom": -0.7525297040862549
-                }
+                "file": "📚 Courses/CSM 478 - Computer Networks/Questions/midsem.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file-text",
+              "title": "midsem"
+            }
+          },
+          {
+            "id": "832b5ea12d12f9b5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "📚 Courses/CSM 478 - Computer Networks/Questions/networking one yard.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "networking one yard"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ae12c76edec6b4b4",
@@ -86,12 +78,28 @@
             "id": "d81fcc23d9ecb25c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "📚 Courses/CSM 478 - Computer Networks/Questions/END OF SEM 2 EXAMS NETWORKING 2020.pdf"
+                "file": "📚 Courses/CSM 478 - Computer Networks/Questions/01 - Solution.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "END OF SEM 2 EXAMS NETWORKING 2020"
+              "icon": "lucide-file",
+              "title": "01 - Solution"
+            }
+          },
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Preparations for exams 2"
             }
           },
           {
@@ -100,10 +108,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "📚 Courses/CSM 478 - Computer Networks/Questions/Networking_mcqs.pdf"
+                "file": "📚 Courses/CSM 478 - Computer Networks/Questions/CCNAquestions_Jul_7_2015.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Networking_mcqs"
+              "title": "CCNAquestions_Jul_7_2015"
             }
           },
           {
@@ -149,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "6616b4c46afcaea6",
@@ -310,35 +319,36 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "4ee80e08a30f6fa2",
+  "active": "d9cd28551a61d1a5",
   "lastOpenFiles": [
+    "📚 Courses/CSM 478 - Computer Networks/Questions/Network Assignment 2.pdf",
+    "📚 Courses/CSM 478 - Computer Networks/Questions/networking one yard.pdf",
+    "📚 Courses/CSM 478 - Computer Networks/Questions/Networking Trials Questions.pdf",
+    "📚 Courses/CSM 478 - Computer Networks/Questions/midsem.pdf",
+    "📚 Courses/CSM 478 - Computer Networks/Questions/END OF SEM 2 EXAMS NETWORKING 2020.pdf",
+    "📚 Courses/CSM 478 - Computer Networks/Questions/CCNAquestions_Jul_7_2015.pdf",
+    "📚 Courses/CSM 478 - Computer Networks/Questions/20200129_151600.jpg",
+    "Homepage.canvas",
+    "📚 Courses/CSM 478 - Computer Networks/Questions/01 - Solution.md",
+    "📚 Courses/CSM 478 - Computer Networks/Questions/Answer to Question.md",
+    "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 1.md",
+    "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 2.md",
     "📚 Courses/CSM 478 - Computer Networks/Questions/Networking_mcqs.pdf",
     "📚 Courses/CSM 478 - Computer Networks/Questions/04 - Solution.md",
-    "📚 Courses/CSM 478 - Computer Networks/Questions/01 - Solution.md",
     "📚 Courses/CSM 478 - Computer Networks/Questions/02 - Solution.md",
     "📚 Courses/CSM 478 - Computer Networks/Questions/03 - Solution.md",
     "📚 Courses/CSM 478 - Computer Networks/Questions/VLSM_Network_Design_Question.pdf",
     "📚 Courses/CSM 478 - Computer Networks/Resources/Computer Networks IP Addressing.pdf",
-    "📚 Courses/CSM 478 - Computer Networks/Questions/Networking Trials Questions.pdf",
-    "📚 Courses/CSM 478 - Computer Networks/Questions/networking one yard.pdf",
-    "📚 Courses/CSM 478 - Computer Networks/Questions/midsem.pdf",
     "📚 Courses/CSM 478 - Computer Networks/Resources/csm 478 lecture2-NEW.pdf",
-    "📚 Courses/CSM 478 - Computer Networks/Questions/END OF SEM 2 EXAMS NETWORKING 2020.pdf",
-    "📚 Courses/CSM 478 - Computer Networks/Questions/CCNAquestions_Jul_7_2015.pdf",
-    "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 2.md",
     "📎 Attachments/Pasted image 20250818211351.png",
     "📎 Attachments/Pasted image 20250818210937.png",
-    "📚 Courses/CSM 478 - Computer Networks/Questions/Answer to Question.md",
-    "📚 Courses/CSM 478 - Computer Networks/Questions/20200129_151600.jpg",
     "📚 Courses/CSM 478 - Computer Networks/Resources/Computer Networks - Comprehensive Exam Notes.pdf",
-    "Homepage.canvas",
     "📎 Attachments/Pasted image 20250818201329.png",
     "📎 Attachments/Pasted image 20250818200942.png",
     "📎 Attachments/Pasted image 20250818180433.png",
     "📎 Attachments/Pasted image 20250818174801.png",
     "📎 Attachments/Pasted image 20250818174720.png",
     "📎 Attachments/Pasted image 20250818174339.png",
-    "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 1.md",
     "📎 Attachments/Pasted image 20250818173057.png",
     "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Chapter 01.md",
     "📚 Courses/CSM 478 - Computer Networks/CSM 478 - Computer Networks.md",
