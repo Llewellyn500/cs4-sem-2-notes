@@ -8,156 +8,56 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfc0bba1316b108b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "📚 Courses/CSM 478 - Computer Networks/Questions/END OF SEM 2 EXAMS NETWORKING 2020.pdf"
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": 834,
+                  "y": 570.5,
+                  "zoom": -1.262978382105426
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "END OF SEM 2 EXAMS NETWORKING 2020"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           },
           {
-            "id": "d9cd28551a61d1a5",
+            "id": "25fd12547c9c87df",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "📚 Courses/CSM 478 - Computer Networks/Questions/midsem.pdf"
+                "file": "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/Preparation for exam.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "midsem"
-            }
-          },
-          {
-            "id": "832b5ea12d12f9b5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "📚 Courses/CSM 478 - Computer Networks/Questions/networking one yard.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "networking one yard"
+              "icon": "lucide-file",
+              "title": "Preparation for exam"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "ae12c76edec6b4b4",
+        "id": "1f891c3871dcb1e8",
         "type": "tabs",
         "children": [
           {
-            "id": "c3e23f3e48019b9e",
+            "id": "3b3f5d644d165a68",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "📚 Courses/CSM 478 - Computer Networks/Questions/Networking Trials Questions.pdf"
+                "file": "📚 Courses/CSM 482 - Info Systems 2/Resources/Document.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Networking Trials Questions"
-            }
-          },
-          {
-            "id": "f904ec928cb665d3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "📚 Courses/CSM 478 - Computer Networks/Questions/VLSM_Network_Design_Question.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "VLSM_Network_Design_Question"
-            }
-          },
-          {
-            "id": "d81fcc23d9ecb25c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Courses/CSM 478 - Computer Networks/Questions/01 - Solution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 - Solution"
-            }
-          },
-          {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Preparations for exams 2"
-            }
-          },
-          {
-            "id": "01feec194ce401e9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "📚 Courses/CSM 478 - Computer Networks/Questions/CCNAquestions_Jul_7_2015.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CCNAquestions_Jul_7_2015"
-            }
-          },
-          {
-            "id": "4ee80e08a30f6fa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Courses/CSM 478 - Computer Networks/Questions/04 - Solution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 - Solution"
-            }
-          },
-          {
-            "id": "c1d4e0c6f810a106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Courses/CSM 478 - Computer Networks/Questions/02 - Solution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 - Solution"
-            }
-          },
-          {
-            "id": "3a970a2f6fdca867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Courses/CSM 478 - Computer Networks/Questions/03 - Solution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 - Solution"
+              "title": "Document"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -307,6 +207,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "homepage:Open homepage": false,
       "audio-recorder:Start/stop recording": false,
       "templates:Insert template": false,
@@ -319,16 +220,20 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "d9cd28551a61d1a5",
+  "active": "25fd12547c9c87df",
   "lastOpenFiles": [
+    "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/01 - THE STRATEGIC ROLE OF INFORMATION SYSTEMS.md",
+    "📚 Courses/CSM 482 - Info Systems 2/Resources/Document.pdf",
+    "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/Preparation for exam.md",
+    "📚 Courses/CSM 482 - Info Systems 2/Resources/~$cument.docx",
+    "Homepage.canvas",
     "📚 Courses/CSM 478 - Computer Networks/Questions/Network Assignment 2.pdf",
-    "📚 Courses/CSM 478 - Computer Networks/Questions/networking one yard.pdf",
-    "📚 Courses/CSM 478 - Computer Networks/Questions/Networking Trials Questions.pdf",
-    "📚 Courses/CSM 478 - Computer Networks/Questions/midsem.pdf",
     "📚 Courses/CSM 478 - Computer Networks/Questions/END OF SEM 2 EXAMS NETWORKING 2020.pdf",
+    "📚 Courses/CSM 478 - Computer Networks/Questions/networking one yard.pdf",
+    "📚 Courses/CSM 478 - Computer Networks/Questions/midsem.pdf",
+    "📚 Courses/CSM 478 - Computer Networks/Questions/Networking Trials Questions.pdf",
     "📚 Courses/CSM 478 - Computer Networks/Questions/CCNAquestions_Jul_7_2015.pdf",
     "📚 Courses/CSM 478 - Computer Networks/Questions/20200129_151600.jpg",
-    "Homepage.canvas",
     "📚 Courses/CSM 478 - Computer Networks/Questions/01 - Solution.md",
     "📚 Courses/CSM 478 - Computer Networks/Questions/Answer to Question.md",
     "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 1.md",
@@ -338,11 +243,8 @@
     "📚 Courses/CSM 478 - Computer Networks/Questions/02 - Solution.md",
     "📚 Courses/CSM 478 - Computer Networks/Questions/03 - Solution.md",
     "📚 Courses/CSM 478 - Computer Networks/Questions/VLSM_Network_Design_Question.pdf",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/Computer Networks IP Addressing.pdf",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/csm 478 lecture2-NEW.pdf",
     "📎 Attachments/Pasted image 20250818211351.png",
     "📎 Attachments/Pasted image 20250818210937.png",
-    "📚 Courses/CSM 478 - Computer Networks/Resources/Computer Networks - Comprehensive Exam Notes.pdf",
     "📎 Attachments/Pasted image 20250818201329.png",
     "📎 Attachments/Pasted image 20250818200942.png",
     "📎 Attachments/Pasted image 20250818180433.png",
@@ -358,7 +260,6 @@
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/04 - Enterprise Business Systems.md",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/03 - Functional Business Systems.md",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/02 - Telecommunications in the Internetworked Enterprise.md",
-    "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/01 - THE STRATEGIC ROLE OF INFORMATION SYSTEMS.md",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/05 - Enterprise Business Systems (continued).md",
     "📚 Courses/CSM 482 - Info Systems 2/CSM 482 - Info Systems 2.md",
     "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 04 - THE IMPORTANCE OF INTELLECTUAL PROPERTY.md",
@@ -366,7 +267,6 @@
     "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 02 - RECOGNIZING OPPORTUNITIES AND GENERATING IDEAS.md",
     "📚 Courses/MCS 472 - Principles of Management 2/Lecture_Notes/Lecture 02.md",
     "📚 Courses/MCS 472 - Principles of Management 2/Lecture_Notes/Lecture 01.md",
-    "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 02.md",
-    "README.md"
+    "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 02.md"
   ]
 }
