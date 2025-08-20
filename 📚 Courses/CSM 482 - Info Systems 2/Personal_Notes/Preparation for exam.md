@@ -17,9 +17,7 @@ Of course! Here is a simplified, comprehensive study guide created from all your
 
 ### What Are Strategic Information Systems?
 
-A **Strategic Information System (SIS)** is any information system that helps an organization gain a competitive advantage. These systems don't just support the business; they fundamentally change its
-
-**goals, operations, products, or relationships** with the outside world1111.
+A **Strategic Information System (SIS)** is any information system that helps an organization gain a competitive advantage. These systems don't just support the business; they fundamentally change its **goals, operations, products, or relationships** with the outside world.
 
 - **Example:** When Citibank introduced ATMs in 1977, it wasn't just a new service; it was a strategic move that changed how people bank and helped Citibank become the largest bank in the U.S. at the time2.
     
@@ -30,7 +28,7 @@ To find opportunities where IT can provide a competitive edge, we use two main m
 
 #### A. Porter's Competitive Forces Model
 
-This model identifies five forces that shape competition in any industry. A company must have a strategy to counter them3333.
+This model identifies five forces that shape competition in any industry. A company must have a strategy to counter them.
 
 1. **Threat of New Entrants:** How easy it is for new competitors to enter your market4.
     
@@ -45,9 +43,9 @@ This model identifies five forces that shape competition in any industry. A comp
 
 To fight these forces, businesses use IT to implement five core competitive strategies:
 
-- **Cost Leadership:** Become the lowest-cost producer. IT helps by streamlining processes and managing inventory efficiently9999.
+- **Cost Leadership:** Become the lowest-cost producer. IT helps by streamlining processes and managing inventory efficiently.
     
-- **Differentiation:** Make your products or services different from and better than competitors'. IT helps by gathering data to understand customer needs better101010101010101010.
+- **Differentiation:** Make your products or services different from and better than competitors'. IT helps by gathering data to understand customer needs better.
     
 - **Innovation:** Find new ways of doing business, like creating unique products or making radical changes to processes11111111.
     
