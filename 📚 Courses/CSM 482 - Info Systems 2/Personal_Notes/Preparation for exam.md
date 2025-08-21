@@ -30,15 +30,15 @@ To find opportunities where IT can provide a competitive edge, we use two main m
 
 This model identifies five forces that shape competition in any industry. A company must have a strategy to counter them.
 
-1. **Threat of New Entrants:** How easy it is for new competitors to enter your market4.
+1. **Threat of New Entrants:** How easy it is for new competitors to enter your market.
     
-2. **Threat of Substitute Products/Services:** How easily customers can switch to a different product that does the same thing5.
+2. **Threat of Substitute Products/Services:** How easily customers can switch to a different product that does the same thing.
     
-3. **Bargaining Power of Customers:** How much power customers have to drive down prices6.
+3. **Bargaining Power of Customers:** How much power customers have to drive down prices.
     
-4. **Bargaining Power of Suppliers:** How much power your suppliers have to drive up costs7.
+4. **Bargaining Power of Suppliers:** How much power your suppliers have to drive up costs.
     
-5. **Rivalry Among Existing Competitors:** The intensity of competition from other companies in your industry8.
+5. **Rivalry Among Existing Competitors:** The intensity of competition from other companies in your industry.
     
 
 To fight these forces, businesses use IT to implement five core competitive strategies:
@@ -47,38 +47,38 @@ To fight these forces, businesses use IT to implement five core competitive stra
     
 - **Differentiation:** Make your products or services different from and better than competitors'. IT helps by gathering data to understand customer needs better.
     
-- **Innovation:** Find new ways of doing business, like creating unique products or making radical changes to processes11111111.
+- **Innovation:** Find new ways of doing business, like creating unique products or making radical changes to processes.
     
-- **Growth:** Expand the company's capacity, move into global markets, or offer new products. IT helps manage this expansion12.
+- **Growth:** Expand the company's capacity, move into global markets, or offer new products. IT helps manage this expansion.
     
-- **Alliance:** Form partnerships with other companies (customers, suppliers, even competitors) to create a shared advantage13.
+- **Alliance:** Form partnerships with other companies (customers, suppliers, even competitors) to create a shared advantage.
     
 
 #### B. The Value Chain Model
 
-This model views the company as a "chain" of basic activities that add value to its products or services. It helps pinpoint exactly where IT can be used most effectively14141414.
+This model views the company as a "chain" of basic activities that add value to its products or services. It helps pinpoint exactly where IT can be used most effectively.
 
 - **Primary Activities:** Directly related to producing and selling the product.
     
-    - **Inbound Logistics:** Receiving and storing materials15.
+    - **Inbound Logistics:** Receiving and storing materials.
         
-    - **Operations:** Turning inputs into finished products16.
+    - **Operations:** Turning inputs into finished products.
         
-    - **Outbound Logistics:** Storing and distributing finished products17.
+    - **Outbound Logistics:** Storing and distributing finished products.
         
-    - **Sales and Marketing:** Promoting and selling products18.
+    - **Sales and Marketing:** Promoting and selling products.
         
-    - **Service:** Maintaining and repairing products after the sale19.
+    - **Service:** Maintaining and repairing products after the sale.
         
 - **Support Activities:** These make the primary activities possible.
     
-    - **Administration & Management:** The firm's infrastructure20.
+    - **Administration & Management:** The firm's infrastructure.
         
-    - **Human Resources:** Recruiting, hiring, and training21.
+    - **Human Resources:** Recruiting, hiring, and training.
         
-    - **Technology:** Improving products and processes22.
+    - **Technology:** Improving products and processes.
         
-    - **Procurement:** Purchasing the inputs23.
+    - **Procurement:** Purchasing the inputs.
         
 
 ---
@@ -87,64 +87,54 @@ This model views the company as a "chain" of basic activities that add value to 
 
 ### Building a Customer-Focused Business
 
-The goal is to
+The goal is to **keep customers loyal** by anticipating their needs and providing top-quality service. Internet technologies and CRM systems are key tools. They create channels for constant interaction, allowing companies to:
 
-**keep customers loyal** by anticipating their needs and providing top-quality service24. Internet technologies and CRM systems are key tools. They create channels for constant interaction, allowing companies to:
-
-- Track individual customer preferences25.
+- Track individual customer preferences.
     
-- Supply products and information anytime, anywhere26.
+- Supply products and information anytime, anywhere.
     
-- Encourage customer involvement in product development and service27.
+- Encourage customer involvement in product development and service.
     
 
 ### Business Process Reengineering (BPR)
 
-BPR is not just about small improvements; it's about
+BPR is not just about small improvements; it's about **radically redesigning business processes** to achieve dramatic gains in cost, quality, speed, and service.
 
-**radically redesigning business processes** to achieve dramatic gains in cost, quality, speed, and service28.
-
-|Feature|Business Improvement|Business Reengineering (BPR)|
-|---|---|---|
-|**Level of Change**|Incremental (small tweaks) 29|Radical (complete overhaul) 30|
-|**Starting Point**|Existing process 31|Clean slate 32|
-|**Primary Enabler**|Statistical Control 33|Information Technology 34|
-|**Risk**|Moderate 35|High 36|
+| Feature             | Business Improvement       | Business Reengineering (BPR) |
+| ------------------- | -------------------------- | ---------------------------- |
+| **Level of Change** | Incremental (small tweaks) | Radical (complete overhaul)  |
+| **Starting Point**  | Existing process           | Clean slate                  |
+| **Primary Enabler** | Statistical Control        | Information Technology       |
+| **Risk**            | Moderate                   | High                         |
 
 ### Becoming an Agile Company
 
-Agility is the ability to thrive in rapidly changing global markets37. Agile companies use four key strategies:
+Agility is the ability to thrive in rapidly changing global markets. Agile companies use four key strategies:
 
-1. Provide
+1. Provide solutions to customers' problems**, not just products.
     
-    **solutions to customers' problems**, not just products38.
+2. **Cooperate** with customers, suppliers, and even competitors to bring products to market quickly.
     
-2. **Cooperate** with customers, suppliers, and even competitors to bring products to market quickly39.
+3. Organize to thrive on **change and uncertainty**.
     
-3. Organize to thrive on
-    
-    **change and uncertainty**40.
-    
-4. Leverage the
-    
-    **knowledge of its people** and empower them41.
+4. Leverage the **knowledge of its people** and empower them.
     
 
 ### Creating a Virtual Company
 
-A virtual company uses IT to link people, assets, and ideas, creating a flexible organization that isn't limited by physical walls or boundaries42. They form alliances with partners using the Internet, intranets, and extranets to quickly exploit new opportunities43434343.
+A virtual company uses IT to link people, assets, and ideas, creating a flexible organization that isn't limited by physical walls or boundaries42. They form alliances with partners using the Internet, intranets, and extranets to quickly exploit new opportunities.
 
 ### Building a Knowledge-Creating Company
 
-This involves creating new business knowledge and quickly building it into products and services44.
+This involves creating new business knowledge and quickly building it into products and services.
 
-- **Explicit Knowledge:** Data, documents, and anything written down or stored on a computer45.
+- **Explicit Knowledge:** Data, documents, and anything written down or stored on a computer.
     
-- **Tacit Knowledge:** The "how-to" knowledge that's in people's heads46.
+- **Tacit Knowledge:** The "how-to" knowledge that's in people's heads.
     
-- **Knowledge Management Systems (KMS):** The goal of a KMS is to help knowledge workers create, organize, and share important business knowledge47.
+- **Knowledge Management Systems (KMS):** The goal of a KMS is to help knowledge workers create, organize, and share important business knowledge.
     
-    - **Example:** Siemens' **ShareNet** is a website that acts like a chat room and database, allowing 461,000 employees to share their expertise. It added $122 million in sales by helping sales teams find experts within the company to win contracts48484848.
+    - **Example:** Siemens' **ShareNet** is a website that acts like a chat room and database, allowing 461,000 employees to share their expertise. It added $122 million in sales by helping sales teams find experts within the company to win contracts.
         
 
 ---
@@ -153,56 +143,46 @@ This involves creating new business knowledge and quickly building it into produ
 
 ### The Telecommunications Revolution
 
-This revolution is driven by rapid changes in technology and a shift from monopolies to competitive markets49494949. Key technology trends include:
+This revolution is driven by rapid changes in technology and a shift from monopolies to competitive markets. Key technology trends include:
 
-- **Open Systems:** Using common standards (like the Internet) so different hardware and software can easily connect and communicate50505050.
+- **Open Systems:** Using common standards (like the Internet) so different hardware and software can easily connect and communicate.
     
-- **Analog to Digital:** A shift to digital networks, which are faster, carry more information, and have fewer errors than old analog systems515151515151515151.
+- **Analog to Digital:** A shift to digital networks, which are faster, carry more information, and have fewer errors than old analog systems.
     
-- **Wireless and Fiber-Optics:** Moving from copper wires to faster and higher-capacity fiber-optic lines and wireless technologies like satellite52525252.
+- **Wireless and Fiber-Optics:** Moving from copper wires to faster and higher-capacity fiber-optic lines and wireless technologies like satellite.
     
 
 ### The Internet
 
-The Internet is a global network of networks with no central computer or governing body535353535353535353. Businesses use it to achieve six major goals:
+The Internet is a global network of networks with no central computer or governing body. Businesses use it to achieve six major goals:
 
-1. Generate
+1. Generate **new revenue** from online sales.
     
-    **new revenue** from online sales54.
+2. **Reduce costs** through online sales and support.
     
-2. **Reduce costs** through online sales and support55.
+3. **Attract new customers** via web marketing.
     
-3. **Attract new customers** via web marketing56.
+4. **Increase loyalty** of existing customers with better service.
     
-4. **Increase loyalty** of existing customers with better service57.
+5. Develop new **web-based markets** and channels.
     
-5. Develop new
-    
-    **web-based markets** and channels58.
-    
-6. Develop new
-    
-    **information-based products**59.
+6. Develop new **information-based products**.
     
 
 ### Intranets
 
-An
+An **intranet** is a network _inside_ an organization that uses Internet technologies (like a web browser) to share information, communicate, and support business processes. It's protected from the outside world by firewalls and passwords. Intranets are valuable for:
 
-**intranet** is a network _inside_ an organization that uses Internet technologies (like a web browser) to share information, communicate, and support business processes60606060. It's protected from the outside world by firewalls and passwords61. Intranets are valuable for:
-
-- **Communication and Collaboration:** Email, chat, discussion groups, and other collaborative tools62626262.
+- **Communication and Collaboration:** Email, chat, discussion groups, and other collaborative tools.
     
-- **Web Publishing:** Easily sharing company documents like newsletters and product catalogs63636363.
+- **Web Publishing:** Easily sharing company documents like newsletters and product catalogs.
     
-- **Business Operations:** Running critical business applications like order processing on the intranet platform64646464.
+- **Business Operations:** Running critical business applications like order processing on the intranet platform.
     
 
 ### Extranets
 
-An
-
-**extranet** is created when a company links its intranet to the intranets of its customers, suppliers, or business partners65. This strengthens relationships by giving partners secure access to needed information and enables better collaboration on things like product development and supply chain management66666666.
+An **extranet** is created when a company links its intranet to the intranets of its customers, suppliers, or business partners65. This strengthens relationships by giving partners secure access to needed information and enables better collaboration on things like product development and supply chain management66666666.
 
 ---
 
