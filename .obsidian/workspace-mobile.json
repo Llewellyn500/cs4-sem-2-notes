@@ -11,20 +11,28 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": 834,
-                  "y": 570.5,
-                  "zoom": -3.1186668817370795
-                }
+                "file": "📚 Courses/CSM 494 - Computer Security/Resources/sumarry 2.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file-text",
+              "title": "sumarry 2"
+            }
+          },
+          {
+            "id": "35646418814df7f0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "📚 Courses/CSM 494 - Computer Security/Resources/summary 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "summary 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +174,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "35646418814df7f0",
   "lastOpenFiles": [
-    "📚 Courses/CSM 482 - Info Systems 2/Questions/2011_end_of_sem_(M.I.N.S)possible answers.pdf",
+    "📚 Courses/CSM 494 - Computer Security/Resources/sumarry 2.pdf",
     "Homepage.canvas",
+    "📚 Courses/CSM 482 - Info Systems 2/Questions/2011_end_of_sem_(M.I.N.S)possible answers.pdf",
     "📚 Courses/CSM 482 - Info Systems 2/Questions/combined_midsem.pdf",
     "📚 Courses/CSM 482 - Info Systems 2/Questions/ALPHA   AND  OMEGA INFO.docx",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/Preparation for exam.md",
