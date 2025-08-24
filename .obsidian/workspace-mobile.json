@@ -11,12 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "📚 Courses/CSM 482 - Info Systems 2/Questions/2011_end_of_sem_(M.I.N.S)possible answers.pdf"
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": 834,
+                  "y": 570.5,
+                  "zoom": -3.1186668817370795
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "2011_end_of_sem_(M.I.N.S)possible answers"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -163,10 +168,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "📚 Courses/CSM 482 - Info Systems 2/Questions/2011_end_of_sem_(M.I.N.S)possible answers.pdf",
     "Homepage.canvas",
     "📚 Courses/CSM 482 - Info Systems 2/Questions/combined_midsem.pdf",
     "📚 Courses/CSM 482 - Info Systems 2/Questions/ALPHA   AND  OMEGA INFO.docx",
-    "📚 Courses/CSM 482 - Info Systems 2/Questions/2011_end_of_sem_(M.I.N.S)possible answers.pdf",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/Preparation for exam.md",
     "📚 Courses/CSM 497 - Expert Systems/Questions/GPT Answers to Expert JAR QNS.md",
     "📚 Courses/MAS 261 - Principles Of Management/Lecture_Notes/Lecture 02.md",
