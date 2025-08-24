@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,11 +191,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1788d9a45ac48bcc",
+  "active": "35646418814df7f0",
   "lastOpenFiles": [
+    "Homepage.canvas",
     "📚 Courses/CSM 494 - Computer Security/Resources/summary 1.pdf",
     "📚 Courses/CSM 494 - Computer Security/Resources/sumarry 2.pdf",
-    "Homepage.canvas",
     "📚 Courses/CSM 482 - Info Systems 2/Questions/2011_end_of_sem_(M.I.N.S)possible answers.pdf",
     "📚 Courses/CSM 482 - Info Systems 2/Questions/combined_midsem.pdf",
     "📚 Courses/CSM 482 - Info Systems 2/Questions/ALPHA   AND  OMEGA INFO.docx",
@@ -238,7 +238,6 @@
     "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/Lecture 05.md",
     "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/Lecture 04.md",
     "Untitled",
-    "📎 Attachments/Recording 20250212155241.m4a",
-    "📚 Courses/CSM 481 - Information System I/Resources/5 -GROUP DECISION SUPPORT SYSTEM.pptx"
+    "📎 Attachments/Recording 20250212155241.m4a"
   ]
 }
