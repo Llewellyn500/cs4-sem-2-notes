@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": 834,
-                  "y": 570.5,
-                  "zoom": -1.262978382105426
-                }
+                "file": "📚 Courses/CSM 494 - Computer Security/Resources/summary 1.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file-text",
+              "title": "summary 1"
+            }
+          },
+          {
+            "id": "9bdea9554a2b828d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "📚 Courses/CSM 494 - Computer Security/Resources/sumarry 2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "sumarry 2"
             }
           }
         ]
@@ -188,14 +195,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "📚 Courses/CSM 494 - Computer Security/Questions/WhatsApp Image 2025-08-24 at 15.23.54_9f5a8b22.jpg",
     "📚 Courses/CSM 494 - Computer Security/Resources/sumarry 2.pdf",
     "📚 Courses/CSM 494 - Computer Security/Resources/summary 1.pdf",
+    "Homepage.canvas",
     "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 01.md",
     "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 04.md",
     "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 03.md",
     "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 02.md",
     "📚 Courses/CSM 494 - Computer Security/Resources/~$ch03.ppt",
-    "Homepage.canvas",
     "📚 Courses/CSM 482 - Info Systems 2/Questions/2011_end_of_sem_(M.I.N.S)possible answers.pdf",
     "📚 Courses/CSM 482 - Info Systems 2/Questions/~$PHA   AND  OMEGA INFO.docx",
     "📚 Courses/CSM 482 - Info Systems 2/Questions/others .pdf",
@@ -209,7 +217,6 @@
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/04 - Enterprise Business Systems.md",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/03 - Functional Business Systems.md",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/02 - Telecommunications in the Internetworked Enterprise.md",
-    "📚 Courses/CSM 482 - Info Systems 2/Resources/~$cument.docx",
     "📚 Courses/CSM 478 - Computer Networks/Questions/20200129_151600.jpg",
     "📚 Courses/CSM 478 - Computer Networks/Questions/01 - Solution.md",
     "📚 Courses/CSM 478 - Computer Networks/Questions/Answer to Question.md",
