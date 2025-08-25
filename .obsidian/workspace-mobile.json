@@ -11,45 +11,44 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "📚 Courses/CSM 494 - Computer Security/Resources/sumarry 2.pdf"
+                "file": "📚 Courses/CSM 494 - Computer Security/Resources/Quesitons.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "sumarry 2"
+              "icon": "lucide-file",
+              "title": "Quesitons"
             }
           },
           {
-            "id": "35646418814df7f0",
+            "id": "67c140c3220df153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Courses/CSM 494 - Computer Security/Resources/Questions Answers From GPT Directly From The Slides.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Questions Answers From GPT Directly From The Slides"
+            }
+          },
+          {
+            "id": "6e1321f7a2839878",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "📚 Courses/CSM 494 - Computer Security/Resources/summary 1.pdf"
+                "file": "📚 Courses/CSM 494 - Computer Security/Questions/Security A and B verify answers .pdf"
               },
               "icon": "lucide-file-text",
-              "title": "summary 1"
-            }
-          },
-          {
-            "id": "1788d9a45ac48bcc",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": 834,
-                  "y": 570.5,
-                  "zoom": -3.1186668817370795
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "title": "Security A and B verify answers"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,12 +190,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "35646418814df7f0",
+  "active": "6e1321f7a2839878",
   "lastOpenFiles": [
-    "📚 Courses/CSM 494 - Computer Security/Resources/Questions Answers From GPT Directly From The Slides.md",
+    "📚 Courses/CSM 494 - Computer Security/Questions/WhatsApp Image 2025-08-24 at 15.23.54_9f5a8b22.jpg",
     "📚 Courses/CSM 494 - Computer Security/Questions/WhatsApp Image 2025-08-24 at 21.56.26_27564d3d.jpg",
+    "📚 Courses/CSM 494 - Computer Security/Questions/answers.md",
+    "📚 Courses/CSM 494 - Computer Security/Resources/Questions Answers From GPT Directly From The Slides.md",
+    "📚 Courses/CSM 494 - Computer Security/Resources/Quesitons.md",
+    "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 02 - RECOGNIZING OPPORTUNITIES AND GENERATING IDEAS.md",
     "Homepage.canvas",
-    "📚 Courses/CSM 494 - Computer Security/Resources/summary 1.pdf",
     "📚 Courses/CSM 494 - Computer Security/Resources/sumarry 2.pdf",
     "📚 Courses/CSM 482 - Info Systems 2/Questions/2011_end_of_sem_(M.I.N.S)possible answers.pdf",
     "📚 Courses/CSM 482 - Info Systems 2/Questions/combined_midsem.pdf",
@@ -232,13 +234,9 @@
     "📎 Attachments/Pasted image 20250221085847.png",
     "📎 Attachments/Pasted image 20250221085749.png",
     "📎 Attachments/Pasted image 20250221084052.png",
-    "📎 Attachments/Pasted image 20250221083201.png",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Personal_Notes/01 Introduction.md",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 01.md",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 02.md",
-    "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/Lecture 05.md",
-    "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/Lecture 04.md",
     "Untitled",
-    "📎 Attachments/Recording 20250212155241.m4a"
+    "📎 Attachments/Recording 20250212155241.m4a",
+    "📚 Courses/CSM 481 - Information System I/Resources/5 -GROUP DECISION SUPPORT SYSTEM.pptx"
   ]
 }
