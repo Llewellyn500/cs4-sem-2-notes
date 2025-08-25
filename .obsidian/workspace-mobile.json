@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "📚 Courses/CSM 494 - Computer Security/Resources/Quesitons.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -34,9 +34,18 @@
               "icon": "lucide-file",
               "title": "Questions Answers From GPT Directly From The Slides"
             }
+          },
+          {
+            "id": "6e1321f7a2839878",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +73,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#personal",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -99,7 +108,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "7af92bebbed65fc7",
@@ -178,10 +187,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "67c140c3220df153",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "📚 Courses/CSM 494 - Computer Security/Resources/Quesitons.md",
     "📚 Courses/CSM 494 - Computer Security/Resources/Questions Answers From GPT Directly From The Slides.md",
+    "📚 Courses/CSM 494 - Computer Security/Resources/Quesitons.md",
+    "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 02 - RECOGNIZING OPPORTUNITIES AND GENERATING IDEAS.md",
     "Homepage.canvas",
     "📚 Courses/CSM 494 - Computer Security/Resources/sumarry 2.pdf",
     "📚 Courses/CSM 494 - Computer Security/Questions/WhatsApp Image 2025-08-24 at 21.56.26_27564d3d.jpg",
