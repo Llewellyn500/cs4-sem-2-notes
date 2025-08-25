@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Questions Answers From GPT Directly From The Slides"
             }
+          },
+          {
+            "id": "6e1321f7a2839878",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +188,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "67c140c3220df153",
+  "active": "6e1321f7a2839878",
   "lastOpenFiles": [
     "📚 Courses/CSM 494 - Computer Security/Resources/Quesitons.md",
     "📚 Courses/CSM 494 - Computer Security/Resources/Questions Answers From GPT Directly From The Slides.md",
