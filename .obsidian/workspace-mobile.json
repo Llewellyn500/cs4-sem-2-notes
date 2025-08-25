@@ -39,10 +39,14 @@
             "id": "6e1321f7a2839878",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "📚 Courses/CSM 494 - Computer Security/Questions/answers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "answers"
             }
           }
         ],
@@ -188,7 +192,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6d7e99f5b476ee3f",
+  "active": "6e1321f7a2839878",
   "lastOpenFiles": [
     "📚 Courses/CSM 494 - Computer Security/Resources/Questions Answers From GPT Directly From The Slides.md",
     "📚 Courses/CSM 494 - Computer Security/Resources/Quesitons.md",
