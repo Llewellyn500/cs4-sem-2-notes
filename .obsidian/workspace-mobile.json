@@ -45,7 +45,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +74,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#personal",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -108,7 +109,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "7af92bebbed65fc7",
@@ -187,7 +188,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6d7e99f5b476ee3f",
   "lastOpenFiles": [
     "📚 Courses/CSM 494 - Computer Security/Resources/Questions Answers From GPT Directly From The Slides.md",
     "📚 Courses/CSM 494 - Computer Security/Resources/Quesitons.md",
