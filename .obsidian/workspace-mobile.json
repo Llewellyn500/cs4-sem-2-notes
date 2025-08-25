@@ -11,17 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": 834,
-                  "y": 570.5,
-                  "zoom": -3.163592752618596
-                }
+                "file": "📚 Courses/CSM 494 - Computer Security/Questions/Security A and B verify answers .pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file-text",
+              "title": "Security A and B verify answers"
             }
           }
         ]
@@ -168,6 +163,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Homepage.canvas",
     "📚 Courses/CSM 494 - Computer Security/Questions/Questions Answers From GPT Directly From The Slides.md",
     "📚 Courses/CSM 494 - Computer Security/Questions/Security A and B verify answers .pdf",
     "📚 Courses/CSM 494 - Computer Security/Questions/Quesitons.md",
@@ -178,7 +174,6 @@
     "📚 Courses/CSM 494 - Computer Security/Resources/Questions Answers From GPT Directly From The Slides.md",
     "📚 Courses/CSM 494 - Computer Security/Resources/Quesitons.md",
     "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 02 - RECOGNIZING OPPORTUNITIES AND GENERATING IDEAS.md",
-    "Homepage.canvas",
     "📚 Courses/CSM 494 - Computer Security/Resources/sumarry 2.pdf",
     "📚 Courses/CSM 482 - Info Systems 2/Questions/2011_end_of_sem_(M.I.N.S)possible answers.pdf",
     "📚 Courses/CSM 482 - Info Systems 2/Questions/combined_midsem.pdf",
@@ -203,7 +198,6 @@
     "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 01.md",
     "📚 Courses/CSM 497 - Expert Systems/Questions/expert mcqs.pdf",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01b - History of Management.md",
-    "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01 - Introduction (Foundations of Management).md",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/Lecture 3 (1).pptx",
     "📎 Attachments/Pasted image 20250221141830.png",
