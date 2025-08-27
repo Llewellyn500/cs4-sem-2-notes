@@ -23,8 +23,23 @@
               "icon": "lucide-layout-dashboard",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "17da6e7296076d13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Courses/CSM 484 - Introduction to Compilers/Personal_Notes/Explain regex simply.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Explain regex simply"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,8 +201,10 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "17da6e7296076d13",
   "lastOpenFiles": [
+    "Homepage.canvas",
+    "📚 Courses/CSM 484 - Introduction to Compilers/Personal_Notes/Explain regex simply.md",
     "📚 Courses/CSM 484 - Introduction to Compilers/Personal_Notes/Exam prep.md",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/Compilers Note.pdf",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/1introduction to compilers.pdf",
@@ -196,7 +213,6 @@
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/~$fornal language.pptx",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/~$introduction to compilers.pptx",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/~$introduction to compilers.ppt",
-    "Homepage.canvas",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/introduction to compilers.ppt",
     "📚 Courses/CSM 494 - Computer Security/Resources/sumarry 2.pdf",
     "📚 Courses/CSM 494 - Computer Security/Questions/Quesitons.md",
@@ -232,7 +248,6 @@
     "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Chapter 01.md",
     "📚 Courses/CSM 478 - Computer Networks/CSM 478 - Computer Networks.md",
     "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 01 - INTRODUTION TO ENTREPRENEURSHIP.md",
-    "📚 Courses/CSM 494 - Computer Security/Questions/answers.md",
-    "📚 Courses/CSM 482 - Info Systems 2/CSM 482 - Info Systems 2.md"
+    "📚 Courses/CSM 494 - Computer Security/Questions/answers.md"
   ]
 }
