@@ -11,17 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": 834,
-                  "y": 570.5,
-                  "zoom": -3.1186668817370795
-                }
+                "file": "📚 Courses/CSM 484 - Introduction to Compilers/Resources/Intro to compilers (Morris edition).pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file-text",
+              "title": "Intro to compilers (Morris edition)"
             }
           }
         ]
@@ -166,27 +161,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5c5341a5c7356853",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "📚 Courses/CSM 484 - Introduction to Compilers/Personal_Notes/Exam prep.md",
+    "Homepage.canvas",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/introduction to compilers.pdf",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/Intro to compilers (Morris edition).pdf",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/fornal language.pdf",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/1introduction to compilers.pdf",
     "📚 Courses/CSM 484 - Introduction to Compilers/Personal_Notes/Explain regex simply.md",
-    "📚 Courses/CSM 484 - Introduction to Compilers/Personal_Notes/Exam prep.md",
     "📚 Courses/CSM 494 - Computer Security/Resources/sumarry 2.pdf",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/introduction to compilers.ppt",
     "📚 Courses/CSM 494 - Computer Security/Questions/Questions Answers From GPT Directly From The Slides.md",
     "📚 Courses/CSM 494 - Computer Security/Questions/Quesitons.md",
     "📚 Courses/CSM 494 - Computer Security/Questions/Computer_Security_QA.docx",
     "📚 Courses/CSM 494 - Computer Security/Questions/Computer_Security_Essay_QA.docx",
-    "Homepage.canvas",
     "📚 Courses/CSM 494 - Computer Security/Resources/summary 1.pdf",
     "📚 Courses/CSM 494 - Computer Security/Resources/Quesitons.md",
     "📚 Courses/CSM 494 - Computer Security/Resources/Questions Answers From GPT Directly From The Slides.md",
     "📚 Courses/CSM 494 - Computer Security/Questions/WhatsApp Image 2025-08-24 at 21.56.26_27564d3d.jpg",
     "📚 Courses/CSM 482 - Info Systems 2/Questions/2011_end_of_sem_(M.I.N.S)possible answers.pdf",
-    "📚 Courses/CSM 482 - Info Systems 2/Questions/combined_midsem.pdf",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/Preparation for exam.md",
     "📚 Courses/CSM 497 - Expert Systems/Questions/GPT Answers to Expert JAR QNS.md",
     "📚 Courses/MAS 261 - Principles Of Management/Lecture_Notes/Lecture 02.md",
