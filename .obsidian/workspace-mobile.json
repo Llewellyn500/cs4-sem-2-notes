@@ -11,12 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "📚 Courses/CSM 484 - Introduction to Compilers/Resources/Intro to compilers (Morris edition).pdf"
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": 1198.9832094392461,
+                  "y": 729.0748078879648,
+                  "zoom": -0.7047803176450635
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Intro to compilers (Morris edition)"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -163,10 +168,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "📚 Courses/CSM 484 - Introduction to Compilers/Resources/Intro to compilers (Morris edition).pdf",
     "📚 Courses/CSM 484 - Introduction to Compilers/Personal_Notes/Exam prep.md",
     "Homepage.canvas",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/introduction to compilers.pdf",
-    "📚 Courses/CSM 484 - Introduction to Compilers/Resources/Intro to compilers (Morris edition).pdf",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/fornal language.pdf",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/1introduction to compilers.pdf",
     "📚 Courses/CSM 484 - Introduction to Compilers/Personal_Notes/Explain regex simply.md",
