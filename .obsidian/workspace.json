@@ -11,35 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": 834,
-                  "y": 570.5,
-                  "zoom": -1.498965967732144
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "17da6e7296076d13",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Courses/CSM 484 - Introduction to Compilers/Personal_Notes/Explain regex simply.md",
+                "file": "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 01 - INTRODUTION TO ENTREPRENEURSHIP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Explain regex simply"
+              "title": "Chapter 01 - INTRODUTION TO ENTREPRENEURSHIP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,9 +183,24 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "17da6e7296076d13",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Homepage.canvas",
+    "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 01 - INTRODUTION TO ENTREPRENEURSHIP.md",
+    "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 04 - THE IMPORTANCE OF INTELLECTUAL PROPERTY.md",
+    "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 03 - FEASIBILITY ANALYSIS.md",
+    "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 02 - RECOGNIZING OPPORTUNITIES AND GENERATING IDEAS.md",
+    "📚 Courses/MCS 472 - Principles of Management 2/Questions/IMG-20250904-WA0037.jpg",
+    "📚 Courses/MCS 472 - Principles of Management 2/Questions/IMG-20250904-WA0026.jpg",
+    "📚 Courses/MCS 472 - Principles of Management 2/Questions/IMG-20250904-WA0028.jpg",
+    "📚 Courses/MCS 472 - Principles of Management 2/Questions/IMG-20250904-WA0030.jpg",
+    "📚 Courses/MCS 472 - Principles of Management 2/Questions/IMG-20250904-WA0035.jpg",
+    "📚 Courses/MCS 472 - Principles of Management 2/Questions/IMG-20250904-WA0033.jpg",
+    "📚 Courses/MCS 472 - Principles of Management 2/Questions/IMG-20250904-WA0031.jpg",
+    "📚 Courses/MCS 472 - Principles of Management 2/Questions/IMG-20250904-WA0036.jpg",
+    "📚 Courses/MCS 472 - Principles of Management 2/Questions/IMG-20250904-WA0032.jpg",
+    "📚 Courses/MCS 472 - Principles of Management 2/Questions/IMG-20250904-WA0034.jpg",
+    "📚 Courses/MCS 472 - Principles of Management 2/Questions/📝 200 Practice Questions for Finals.docx",
     "📚 Courses/CSM 484 - Introduction to Compilers/Personal_Notes/Explain regex simply.md",
     "📚 Courses/CSM 484 - Introduction to Compilers/Personal_Notes/Exam prep.md",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/Compilers Note.pdf",
@@ -216,10 +213,7 @@
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/introduction to compilers.ppt",
     "📚 Courses/CSM 494 - Computer Security/Resources/sumarry 2.pdf",
     "📚 Courses/CSM 494 - Computer Security/Questions/Quesitons.md",
-    "📚 Courses/CSM 494 - Computer Security/Questions/Security A and B verify answers .pdf",
     "📚 Courses/CSM 494 - Computer Security/Questions/Questions Answers From GPT Directly From The Slides.md",
-    "📚 Courses/CSM 494 - Computer Security/Questions/WhatsApp Image 2025-08-24 at 21.56.26_27564d3d.jpg",
-    "📚 Courses/CSM 494 - Computer Security/Questions/WhatsApp Image 2025-08-24 at 15.23.54_9f5a8b22.jpg",
     "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 01.md",
     "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 04.md",
     "📚 Courses/CSM 494 - Computer Security/Personal_Notes/Chapter 03.md",
@@ -230,24 +224,12 @@
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/04 - Enterprise Business Systems.md",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/03 - Functional Business Systems.md",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/02 - Telecommunications in the Internetworked Enterprise.md",
-    "📚 Courses/CSM 478 - Computer Networks/Questions/20200129_151600.jpg",
     "📚 Courses/CSM 478 - Computer Networks/Questions/01 - Solution.md",
     "📚 Courses/CSM 478 - Computer Networks/Questions/Answer to Question.md",
     "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 1.md",
     "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Preparations for exams 2.md",
     "📚 Courses/CSM 478 - Computer Networks/Questions/04 - Solution.md",
     "📚 Courses/CSM 478 - Computer Networks/Questions/02 - Solution.md",
-    "📚 Courses/CSM 478 - Computer Networks/Questions/03 - Solution.md",
-    "📎 Attachments/Pasted image 20250818211351.png",
-    "📎 Attachments/Pasted image 20250818210937.png",
-    "📎 Attachments/Pasted image 20250818201329.png",
-    "📎 Attachments/Pasted image 20250818200942.png",
-    "📎 Attachments/Pasted image 20250818180433.png",
-    "📎 Attachments/Pasted image 20250818174801.png",
-    "📎 Attachments/Pasted image 20250818174720.png",
-    "📚 Courses/CSM 478 - Computer Networks/Personal_Notes/Chapter 01.md",
-    "📚 Courses/CSM 478 - Computer Networks/CSM 478 - Computer Networks.md",
-    "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 01 - INTRODUTION TO ENTREPRENEURSHIP.md",
-    "📚 Courses/CSM 494 - Computer Security/Questions/answers.md"
+    "📚 Courses/CSM 478 - Computer Networks/Questions/03 - Solution.md"
   ]
 }
