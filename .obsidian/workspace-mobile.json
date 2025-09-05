@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": 834,
-                  "y": 570.5,
-                  "zoom": -3.163592752618596
-                }
+                "file": "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 04 - THE IMPORTANCE OF INTELLECTUAL PROPERTY.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Chapter 04 - THE IMPORTANCE OF INTELLECTUAL PROPERTY"
             }
           }
         ]
@@ -166,8 +163,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5c5341a5c7356853",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Homepage.canvas",
     "📚 Courses/MCS 472 - Principles of Management 2/Questions/📝 200 Practice Questions for Finals.docx",
     "📚 Courses/MCS 472 - Principles of Management 2/Questions/IMG-20250904-WA0038.jpg",
     "📚 Courses/MCS 472 - Principles of Management 2/Questions/IMG-20250904-WA0037.jpg",
@@ -180,7 +178,6 @@
     "📚 Courses/MCS 472 - Principles of Management 2/Questions/IMG-20250904-WA0030.jpg",
     "📚 Courses/MCS 472 - Principles of Management 2/Questions/IMG-20250904-WA0029.jpg",
     "📚 Courses/MCS 472 - Principles of Management 2/Questions/entre midsem.docx",
-    "Homepage.canvas",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/Intro to compilers (Morris edition).pdf",
     "📚 Courses/CSM 484 - Introduction to Compilers/Personal_Notes/Exam prep.md",
     "📚 Courses/CSM 484 - Introduction to Compilers/Resources/introduction to compilers.pdf",
@@ -193,7 +190,6 @@
     "📚 Courses/CSM 494 - Computer Security/Questions/Quesitons.md",
     "📚 Courses/CSM 494 - Computer Security/Questions/Computer_Security_QA.docx",
     "📚 Courses/CSM 494 - Computer Security/Questions/Computer_Security_Essay_QA.docx",
-    "📚 Courses/CSM 494 - Computer Security/Resources/summary 1.pdf",
     "📚 Courses/CSM 494 - Computer Security/Resources/Quesitons.md",
     "📚 Courses/CSM 494 - Computer Security/Resources/Questions Answers From GPT Directly From The Slides.md",
     "📚 Courses/CSM 482 - Info Systems 2/Personal_Notes/Preparation for exam.md",
