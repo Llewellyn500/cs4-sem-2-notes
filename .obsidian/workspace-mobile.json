@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 04 - THE IMPORTANCE OF INTELLECTUAL PROPERTY.md",
-                "mode": "source",
-                "source": false
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": 834,
+                  "y": 570.5,
+                  "zoom": -3.163592752618596
+                }
               },
-              "icon": "lucide-file",
-              "title": "Chapter 04 - THE IMPORTANCE OF INTELLECTUAL PROPERTY"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -165,6 +168,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 04 - THE IMPORTANCE OF INTELLECTUAL PROPERTY.md",
     "Homepage.canvas",
     "📚 Courses/MCS 472 - Principles of Management 2/Questions/📝 200 Practice Questions for Finals.docx",
     "📚 Courses/MCS 472 - Principles of Management 2/Questions/IMG-20250904-WA0038.jpg",
