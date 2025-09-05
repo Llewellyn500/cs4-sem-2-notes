@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": 834,
-                  "y": 570.5,
-                  "zoom": -3.163592752618596
-                }
+                "file": "📚 Courses/MCS 472 - Principles of Management 2/Personal_Notes/Chapter 06 - Franchising.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Chapter 06 - Franchising"
             }
           }
         ]
